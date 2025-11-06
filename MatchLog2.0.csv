@@ -1,0 +1,959 @@
+﻿Season,PLAYER,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Pass_Cmp,Pass_Att,Cmp%,PrgP,Carries,PrgC,TakeOns_Att,TakeOns_Succ,Match Report
+1,3,2024-07-02,Tue,UEFA Euro,Round of 16,Neutral,L 0–3,ro Romania,nl Netherlands,1,CB,90,0,0,0,0,0,0,0,0,45,1,4,2,0,0,0,0,0,20,25,80,1,19,0,0,0,Match Report
+1,3,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,CB,90,0,0,0,0,1,0,0,0,60,1,1,2,0,0,0,0,0,41,48,85.4,1,28,0,1,0,Match Report
+1,3,2024-09-06,Fri,UEFA Nations League,League C,Away,W 3–0,ro Romania,xk Kosovo,1,CB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+1,3,2024-09-09,Mon,UEFA Nations League,League C,Home,W 3–1,ro Romania,lt Lithuania,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,3,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,3,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,CB,7,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0,0,13,13,100,1,11,0,0,0,Match Report
+1,3,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,0,CB,10,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,7,9,77.8,0,5,0,0,0,Match Report
+1,3,2024-10-12,Sat,UEFA Nations League,League C,Away,W 3–0,ro Romania,cy Cyprus,1,CB,82,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,3,2024-10-15,Tue,UEFA Nations League,League C,Away,W 2–1,ro Romania,lt Lithuania,1,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,3,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,CB,90,0,0,0,0,0,0,0,0,100,0,1,2,0,0,0,1,0,73,86,84.9,7,54,0,1,1,Match Report
+1,3,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,3,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,CB,90,0,0,0,0,0,0,0,0,65,0,1,1,0,0,0,0,0,53,59,89.8,7,38,1,0,0,Match Report
+1,3,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,CB,90,0,0,0,0,0,0,1,0,52,3,0,4,0,0,0,0,0,22,31,71,0,21,0,0,0,Match Report
+1,3,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,CB,90,0,0,0,0,0,0,0,0,93,0,1,1,0,0,0,0,0,73,83,88,5,54,2,0,0,Match Report
+1,3,2024-11-15,Fri,UEFA Nations League,League C,Home,W 3–0,ro Romania,xk Kosovo,1,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,3,2024-11-18,Mon,UEFA Nations League,League C,Home,W 4–1,ro Romania,cy Cyprus,1,CB,67,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,3,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,CB,90,0,0,0,0,0,0,0,0,43,1,1,3,0,0,0,1,1,30,36,83.3,1,27,0,0,0,Match Report
+1,3,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,CB,90,0,0,0,0,0,0,0,0,57,0,0,1,0,0,0,1,0,48,52,92.3,2,42,0,0,0,Match Report
+1,3,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,CB,90,0,0,0,0,2,1,0,0,78,3,1,1,0,0,0,1,0,57,66,86.4,2,53,0,0,0,Match Report
+1,3,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,CB,90,0,0,0,0,0,0,0,0,69,2,1,1,0,0,0,0,0,48,60,80,5,46,0,0,0,Match Report
+1,3,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,0,CB,76,0,0,0,0,0,0,0,0,33,1,1,2,0,0,0,1,0,25,28,89.3,2,21,0,0,0,Match Report
+1,3,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,CB,90,0,0,0,0,0,0,1,0,90,1,3,1,0,0,0,0,0,70,78,89.7,1,51,0,0,0,Match Report
+1,3,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,CB,90,0,0,0,0,0,0,0,0,89,1,4,0,0,0,0,0,0,76,83,91.6,2,73,0,0,0,Match Report
+1,3,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,3,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,CB,90,0,0,0,0,0,0,0,0,88,0,1,2,0,0,0,0,0,65,78,83.3,3,71,0,0,0,Match Report
+1,3,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,CB,86,0,0,0,0,0,0,1,0,88,0,2,1,0,0,0,1,0,70,81,86.4,7,60,3,0,0,Match Report
+1,3,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,CB,90,0,0,0,0,1,0,0,0,56,0,0,1,0,0,0,1,0,40,50,80,0,36,0,0,0,Match Report
+1,3,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,CB,45,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,9,16,56.3,0,13,0,0,0,Match Report
+1,3,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,CB,90,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,3,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,3,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,CB,90,0,0,0,0,0,0,0,0,46,1,0,3,0,0,0.3,0,0,24,31,77.4,1,18,1,1,0,Match Report
+1,3,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,CB,45,0,0,0,0,0,0,0,0,40,0,0,2,0,0,0,0,0,29,34,85.3,0,24,0,0,0,Match Report
+1,3,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,CB,90,0,0,0,0,0,0,0,0,63,0,2,4,0,0,0,0,0,45,50,90,0,37,0,0,0,Match Report
+1,3,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,CB,90,0,0,0,0,1,0,0,0,85,0,1,2,0,0,0.1,3,0,69,78,88.5,1,56,0,0,0,Match Report
+1,3,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,0,CB,20,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,13,16,81.3,1,12,0,0,0,Match Report
+1,4,2024-07-02,Tue,UEFA Euro,Round of 16,Neutral,L 1–2,at Austria,tr Türkiye,1,CB,90,0,0,0,0,0,0,0,0,102,0,0,1,0,0,0,3,0,82,95,86.3,12,74,3,0,0,Match Report
+1,4,2024-08-18,Sun,Ligue 1,Matchweek 1,Away,W 1–0,Lens,Angers,1,CB,90,0,0,0,0,0,0,0,0,74,2,0,2,0,0,0,1,0,47,59,79.7,4,31,0,0,0,Match Report
+1,4,2024-08-22,Thu,Conf Lg,Play-off round,Home,W 2–1,fr Lens,gr Panathinaikos,1,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,4,2024-08-25,Sun,Ligue 1,Matchweek 2,Home,W 2–0,Lens,Brest,1,CB,90,0,0,0,0,1,1,0,0,63,1,2,0,0,0,0,0,0,40,49,81.6,2,23,0,0,0,Match Report
+1,4,2024-10-19,Sat,Ligue 1,Matchweek 8,Away,W 2–0,Lens,Saint-Étienne,1,CB,90,0,0,0,0,0,0,0,0,98,2,2,6,0,0,0,0,0,74,79,93.7,2,51,0,0,0,Match Report
+1,4,2024-10-26,Sat,Ligue 1,Matchweek 9,Home,L 0–2,Lens,Lille,1,CB,90,0,0,0,0,0,0,0,0,65,0,0,3,0,0,0,0,0,42,54,77.8,3,31,0,1,0,Match Report
+1,4,2024-11-02,Sat,Ligue 1,Matchweek 10,Away,L 0–1,Lens,Paris S-G,1,CB,90,0,0,0,0,2,0,1,0,38,1,2,1,0.1,0.1,0,0,0,22,26,84.6,2,19,1,1,0,Match Report
+1,4,2024-11-09,Sat,Ligue 1,Matchweek 11,Home,W 3–2,Lens,Nantes,1,CB,90,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,98,106,92.5,6,57,2,1,1,Match Report
+1,4,2024-11-14,Thu,UEFA Nations League,League B,Away,W 2–0,at Austria,kz Kazakhstan,1,CB,90,0,0,0,0,1,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+1,4,2024-11-23,Sat,Ligue 1,Matchweek 12,Home,L 1–3,Lens,Marseille,1,CB,90,0,0,0,0,0,0,1,0,68,4,9,3,0,0,0.1,0,0,33,44,75,3,34,2,0,0,Match Report
+1,4,2024-11-29,Fri,Ligue 1,Matchweek 13,Away,W 2–0,Lens,Reims,1,CB,90,0,0,0,0,2,1,0,0,86,1,1,5,0,0,0.7,2,0,55,64,85.9,2,54,1,1,0,Match Report
+1,4,2024-12-08,Sun,Ligue 1,Matchweek 14,Home,W 2–0,Lens,Montpellier,1,CB,90,0,0,0,0,2,0,0,0,77,4,1,0,0.1,0.1,0,1,0,51,63,81,6,33,0,0,0,Match Report
+1,4,2024-12-14,Sat,Ligue 1,Matchweek 15,Away,D 2–2,Lens,Auxerre,1,CB,90,0,0,0,0,1,0,0,0,99,1,1,3,0,0,0.2,2,0,72,83,86.7,6,58,0,0,0,Match Report
+1,4,2024-12-22,Sun,Coupe de France,Round of 64,Home,D 1 (3)–1 (4),Lens,Paris S-G,1,CB,120,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,4,2025-01-05,Sun,Ligue 1,Matchweek 16,Home,L 0–1,Lens,Toulouse,1,CB,90,0,0,0,0,0,0,1,0,77,1,1,1,0,0,0,2,0,58,65,89.2,4,38,2,2,0,Match Report
+1,4,2025-01-12,Sun,Ligue 1,Matchweek 17,Away,W 2–1,Lens,Le Havre,1,CB,90,0,0,0,0,2,0,0,0,89,2,1,1,0.2,0.2,0,4,1,67,78,85.9,12,60,1,0,0,Match Report
+1,4,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,4,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,4,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,CB,77,0,0,0,0,1,0,0,0,70,1,1,0,0,0,0,1,0,53,60,88.3,1,52,1,0,0,Match Report
+1,4,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,CB,90,0,0,0,0,0,0,0,0,103,1,1,0,0,0,0,1,1,84,92,91.3,0,78,0,1,0,Match Report
+1,4,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,CB,90,0,0,0,0,2,2,0,0,103,1,0,4,0.1,0.1,0,0,0,85,91,93.4,5,83,1,0,0,Match Report
+1,4,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,CB,90,0,0,0,0,0,0,0,0,100,0,1,1,0,0,0,0,0,72,82,87.8,5,62,1,2,2,Match Report
+1,4,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,CB,90,0,0,0,0,1,0,0,0,58,2,0,0,0.2,0.2,0,1,1,39,44,88.6,1,29,0,1,1,Match Report
+1,4,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,0,CB,6,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,1,100,0,0,0,0,0,Match Report
+1,4,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,0,CB,45,0,0,0,0,1,0,0,0,61,0,0,0,0,0,0,3,0,46,52,88.5,9,40,8,0,0,Match Report
+1,4,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,CB,90,0,0,0,0,1,0,0,0,58,0,0,2,0,0,0,1,0,35,48,72.9,1,38,0,0,0,Match Report
+1,4,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,CB,90,0,0,0,0,0,0,0,0,55,1,1,1,0,0,0,0,0,31,43,72.1,0,21,1,1,1,Match Report
+1,4,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,CB,90,0,0,0,0,1,1,0,0,61,1,0,2,0,0,0,1,0,43,53,81.1,1,41,0,0,0,Match Report
+1,4,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,CB,90,0,0,0,0,0,0,0,0,46,0,2,3,0,0,0,1,0,31,33,93.9,0,33,0,0,0,Match Report
+1,4,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,0,CB,12,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,Match Report
+1,4,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,CB,90,0,0,0,0,0,0,0,0,61,0,1,3,0,0,0,0,0,33,39,84.6,1,33,0,0,0,Match Report
+1,4,2025-06-07,Sat,WCQ,First round,Home,W 2–1,at Austria,ro Romania,0,,21,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,6,2024-07-01,Mon,UEFA Euro,Round of 16,Neutral,D 0 (3)–0 (0),pt Portugal,si Slovenia,1,DM,120,0,0,0,0,3,1,0,0,91,7,4,2,0.1,0.1,0,4,0,52,66,78.8,9,41,0,1,1,Match Report
+1,6,2024-07-05,Fri,UEFA Euro,Quarter-finals,Neutral,D 0 (3)–0 (5),pt Portugal,fr France,1,DM,89,0,0,0,0,0,0,1,0,80,2,3,3,0,0,0,0,0,63,68,92.6,7,49,0,0,0,Match Report
+1,6,2024-08-16,Fri,DFB-Pokal,Round of 64,Away,W 4–0,Bayern Munich,Ulm,0,,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,6,2024-09-01,Sun,Bundesliga,Matchweek 2,Home,W 2–0,Bayern Munich,Freiburg,0,DM,17,0,0,0,0,0,0,0,0,20,1,2,0,0,0,0,0,0,16,16,100,0,9,0,0,0,Match Report
+1,6,2024-09-08,Sun,UEFA Nations League,League A,Home,W 2–1,pt Portugal,sct Scotland,1,CM,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,6,2024-09-14,Sat,Bundesliga,Matchweek 3,Away,W 6–1,Bayern Munich,Holstein Kiel,1,DM,90,0,0,0,0,3,0,1,0,97,0,0,3,0.2,0.2,0,2,0,80,86,93,7,58,1,0,0,Match Report
+1,6,2024-09-21,Sat,Bundesliga,Matchweek 4,Away,W 5–0,Bayern Munich,Werder Bremen,0,DM,21,0,0,0,0,0,0,0,0,27,0,0,1,0,0,0.1,0,0,23,24,95.8,2,9,0,0,0,Match Report
+1,6,2024-10-02,Wed,Champions Lg,League phase,Away,L 0–1,de Bayern Munich,eng Aston Villa,0,DM,15,0,0,0,0,1,0,0,0,21,2,1,0,0,0,0,1,0,15,17,88.2,3,12,1,0,0,Match Report
+1,6,2024-10-06,Sun,Bundesliga,Matchweek 6,Away,D 3–3,Bayern Munich,Eint Frankfurt,0,DM,1,0,0,0,0,2,1,0,0,4,0,0,0,0.1,0.1,0,1,0,1,1,100,1,2,0,1,1,Match Report
+1,6,2024-10-15,Tue,UEFA Nations League,League A,Away,D 0–0,pt Portugal,sct Scotland,1,CM,61,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,6,2024-10-19,Sat,Bundesliga,Matchweek 7,Home,W 4–0,Bayern Munich,Stuttgart,0,DM,83,0,0,0,0,2,1,0,0,64,4,0,0,0.2,0.2,0,2,1,54,56,96.4,3,31,0,1,1,Match Report
+1,6,2024-10-23,Wed,Champions Lg,League phase,Away,L 1–4,de Bayern Munich,es Barcelona,1,DM,59,0,0,0,0,1,0,0,0,30,4,1,0,0.1,0.1,0,0,0,21,24,87.5,0,11,0,0,0,Match Report
+1,6,2024-10-27,Sun,Bundesliga,Matchweek 8,Away,W 5–0,Bayern Munich,Bochum,1,DM,60,0,0,0,0,1,1,0,0,52,2,1,0,0,0,0,1,0,36,43,83.7,2,22,0,0,0,Match Report
+1,6,2024-10-30,Wed,DFB-Pokal,Round of 32,Away,W 4–0,Bayern Munich,Mainz 05,1,DM,90,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,6,2024-11-02,Sat,Bundesliga,Matchweek 9,Home,W 3–0,Bayern Munich,Union Berlin,1,DM,68,0,0,0,0,0,0,0,0,74,0,0,1,0,0,0,1,0,68,69,98.6,3,44,0,1,0,Match Report
+1,6,2024-11-06,Wed,Champions Lg,League phase,Home,W 1–0,de Bayern Munich,pt Benfica,1,DM,90,0,0,0,0,2,0,0,0,108,3,1,0,0.1,0.1,0,1,0,93,97,95.9,8,65,0,1,0,Match Report
+1,6,2024-11-09,Sat,Bundesliga,Matchweek 10,Away,W 1–0,Bayern Munich,St. Pauli,0,DM,9,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,6,8,75,1,4,0,0,0,Match Report
+1,6,2025-01-25,Sat,Bundesliga,Matchweek 19,Away,W 2–1,Bayern Munich,Freiburg,0,DM,8,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,2,50,0,1,0,0,0,Match Report
+1,6,2025-02-01,Sat,Bundesliga,Matchweek 20,Home,W 4–3,Bayern Munich,Holstein Kiel,0,DM,33,0,0,0,0,0,0,0,0,24,1,0,1,0,0,0,1,0,20,22,90.9,3,16,1,0,0,Match Report
+1,6,2025-02-28,Fri,Bundesliga,Matchweek 24,Away,W 3–1,Bayern Munich,Stuttgart,1,DM,90,0,0,0,0,1,0,0,0,43,4,1,2,0.1,0.1,0,2,0,31,32,96.9,0,24,0,1,0,Match Report
+1,6,2025-03-05,Wed,Champions Lg,Round of 16,Home,W 3–0,de Bayern Munich,de Leverkusen,0,DM,2,0,0,0,0,1,0,0,0,7,1,1,0,0.2,0.2,0,1,0,4,4,100,0,6,0,0,0,Match Report
+1,6,2025-03-08,Sat,Bundesliga,Matchweek 25,Home,L 2–3,Bayern Munich,Bochum,1,DM,41,0,0,0,0,0,0,0,1,54,3,0,2,0,0,0,0,0,39,46,84.8,1,31,0,0,0,Match Report
+1,6,2025-03-11,Tue,Champions Lg,Round of 16,Away,W 2–0,de Bayern Munich,de Leverkusen,0,DM,7,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0.2,1,0,3,5,60,1,3,0,2,2,Match Report
+1,6,2025-03-29,Sat,Bundesliga,Matchweek 27,Home,W 3–2,Bayern Munich,St. Pauli,0,DM,45,0,0,0,0,0,0,1,0,45,1,0,1,0,0,0,0,0,38,41,92.7,2,21,0,0,0,Match Report
+1,6,2025-04-04,Fri,Bundesliga,Matchweek 28,Away,W 3–1,Bayern Munich,Augsburg,1,DM,90,0,0,0,0,1,0,0,0,89,3,0,1,0,0,0,3,0,75,83,90.4,6,39,1,0,0,Match Report
+1,6,2025-04-19,Sat,Bundesliga,Matchweek 30,Away,W 4–0,Bayern Munich,Heidenheim,0,DM,6,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,15,15,100,0,14,0,0,0,Match Report
+1,6,2025-05-03,Sat,Bundesliga,Matchweek 32,Away,D 3–3,Bayern Munich,RB Leipzig,0,DM,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,Match Report
+1,6,2025-05-10,Sat,Bundesliga,Matchweek 33,Home,W 2–0,Bayern Munich,Gladbach,0,"DM,LB",8,0,0,0,0,0,0,0,0,9,0,0,1,0,0,0,0,0,7,8,87.5,1,5,0,0,0,Match Report
+1,6,2025-06-04,Wed,UEFA Nations League,Semi-finals,Neutral,W 2–1,pt Portugal,de Germany,0,,,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,6,2025-06-24,Tue,Club World Cup,Group stage,Neutral,L 0–1,de Bayern Munich,pt Benfica,1,DM,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2024-07-02,Tue,UEFA Euro,Round of 16,Neutral,W 3–0,nl Netherlands,ro Romania,1,AM,90,0,2,0,0,2,1,0,0,45,0,1,0,0.2,0.2,0.5,5,2,28,35,80,6,33,4,4,1,Match Report
+1,7,2024-07-06,Sat,UEFA Euro,Quarter-finals,Neutral,W 2–1,nl Netherlands,tr Türkiye,1,"AM,RW",86,0,0,0,0,1,0,1,0,51,1,1,2,0,0,0.1,4,0,35,41,85.4,7,35,2,4,1,Match Report
+1,7,2024-07-10,Wed,UEFA Euro,Semi-finals,Neutral,L 1–2,nl Netherlands,eng England,1,"RW,AM",89,1,0,0,0,2,2,1,0,49,3,1,2,0.1,0.1,0,3,1,34,40,85,2,31,6,1,0,Match Report
+1,7,2024-08-17,Sat,DFB-Pokal,Round of 64,Away,W 4–1,RB Leipzig,Rot-Weiss Essen,1,LM,88,1,1,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,7,2024-08-24,Sat,Bundesliga,Matchweek 1,Home,W 1–0,RB Leipzig,Bochum,1,AM,90,0,0,0,0,3,1,1,0,62,0,0,1,0.3,0.3,0.3,5,1,38,52,73.1,5,31,6,3,1,Match Report
+1,7,2024-08-31,Sat,Bundesliga,Matchweek 2,Away,W 3–2,RB Leipzig,Leverkusen,1,AM,90,0,0,0,0,1,0,0,0,42,1,1,1,0.1,0.1,0,1,1,26,33,78.8,1,26,2,4,2,Match Report
+1,7,2024-09-07,Sat,UEFA Nations League,League A,Home,W 5–2,nl Netherlands,ba Bosnia & Herz'na,1,FW,90,1,0,0,0,7,2,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,7,2024-09-10,Tue,UEFA Nations League,League A,Home,D 2–2,nl Netherlands,de Germany,1,AM,74,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2024-09-14,Sat,Bundesliga,Matchweek 3,Home,D 0–0,RB Leipzig,Union Berlin,1,"AM,CM",90,0,0,0,0,3,0,0,0,77,0,0,1,0.1,0.1,0,6,0,45,57,78.9,7,57,6,8,3,Match Report
+1,7,2024-09-19,Thu,Champions Lg,League phase,Away,L 1–2,de RB Leipzig,es Atlético Madrid,1,LM,82,0,0,0,0,2,0,0,0,53,0,1,1,0.1,0.1,0,2,0,29,41,70.7,5,24,1,4,0,Match Report
+1,7,2024-09-22,Sun,Bundesliga,Matchweek 4,Away,D 0–0,RB Leipzig,St. Pauli,1,LM,90,0,0,0,0,1,1,0,0,68,4,0,0,0,0,0,4,0,47,54,87,10,30,1,1,1,Match Report
+1,7,2024-09-28,Sat,Bundesliga,Matchweek 5,Home,W 4–0,RB Leipzig,Augsburg,1,LM,90,1,1,0,0,1,1,0,0,73,0,0,0,0.1,0.1,1.1,5,1,50,66,75.8,12,38,5,5,4,Match Report
+1,7,2024-10-02,Wed,Champions Lg,League phase,Home,L 2–3,de RB Leipzig,it Juventus,1,LM,90,0,0,0,0,3,1,0,0,63,4,0,3,0.2,0.2,0.2,11,1,35,44,79.5,9,36,6,10,4,Match Report
+1,7,2024-10-06,Sun,Bundesliga,Matchweek 6,Away,W 1–0,RB Leipzig,Heidenheim,1,AM,75,0,0,0,0,1,1,1,0,45,1,0,0,0.3,0.3,0.1,3,0,29,38,76.3,6,23,1,2,0,Match Report
+1,7,2024-10-11,Fri,UEFA Nations League,League A,Away,D 1–1,nl Netherlands,hu Hungary,1,FW,81,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,7,2024-10-14,Mon,UEFA Nations League,League A,Away,L 0–1,nl Netherlands,de Germany,1,AM,90,0,0,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2024-10-19,Sat,Bundesliga,Matchweek 7,Away,W 2–0,RB Leipzig,Mainz 05,1,AM,90,1,0,0,0,2,1,0,0,62,2,1,0,0.2,0.2,0.3,4,0,32,43,74.4,2,24,3,3,0,Match Report
+1,7,2024-10-23,Wed,Champions Lg,League phase,Home,L 0–1,de RB Leipzig,eng Liverpool,1,LM,77,0,0,0,0,2,1,0,0,60,1,0,0,0.1,0.1,0.5,4,0,40,53,75.5,2,43,2,5,1,Match Report
+1,7,2025-01-12,Sun,Bundesliga,Matchweek 16,Home,W 4–2,RB Leipzig,Werder Bremen,1,AM,64,2,0,0,0,3,2,0,0,41,1,0,0,0.5,0.5,0.2,4,1,30,35,85.7,3,29,7,4,3,Match Report
+1,7,2025-01-15,Wed,Bundesliga,Matchweek 17,Away,L 1–2,RB Leipzig,Stuttgart,1,AM,65,0,1,0,0,2,1,0,0,65,0,2,1,0.1,0.1,0.5,1,1,43,51,84.3,4,23,0,2,1,Match Report
+1,7,2025-01-18,Sat,Bundesliga,Matchweek 18,Away,D 3–3,RB Leipzig,Bochum,1,AM,90,0,0,0,0,2,0,0,0,54,0,0,3,0.3,0.3,0.5,3,0,28,38,73.7,4,30,4,7,1,Match Report
+1,7,2025-01-22,Wed,Champions Lg,League phase,Home,W 2–1,de RB Leipzig,pt Sporting CP,1,AM,60,0,0,0,0,3,1,0,0,38,2,0,1,0.3,0.3,0,3,1,21,27,77.8,4,24,3,4,2,Match Report
+1,7,2025-01-25,Sat,Bundesliga,Matchweek 19,Home,D 2–2,RB Leipzig,Leverkusen,1,LM,90,0,0,0,0,1,1,1,0,75,1,0,1,0,0,0.3,3,0,51,63,81,12,55,5,1,0,Match Report
+1,7,2025-01-29,Wed,Champions Lg,League phase,Away,L 0–1,de RB Leipzig,at Sturm Graz,0,"CB,AM",26,0,0,0,0,0,0,0,0,16,1,0,0,0,0,0,2,0,5,9,55.6,0,8,0,1,0,Match Report
+1,7,2025-02-01,Sat,Bundesliga,Matchweek 20,Away,D 0–0,RB Leipzig,Union Berlin,1,"AM,LM",90,0,0,0,0,2,1,0,0,59,0,2,0,0.1,0.1,0.1,1,0,32,40,80,5,25,5,2,1,Match Report
+1,7,2025-02-09,Sun,Bundesliga,Matchweek 21,Home,W 2–0,RB Leipzig,St. Pauli,1,AM,90,1,1,0,0,1,1,0,0,65,1,0,0,0.3,0.3,0.7,6,1,42,48,87.5,4,42,2,5,2,Match Report
+1,7,2025-02-14,Fri,Bundesliga,Matchweek 22,Away,D 0–0,RB Leipzig,Augsburg,1,AM,90,0,0,0,0,3,1,0,0,62,0,0,0,0.1,0.1,0,3,0,42,48,87.5,6,42,3,3,1,Match Report
+1,7,2025-02-23,Sun,Bundesliga,Matchweek 23,Home,D 2–2,RB Leipzig,Heidenheim,1,AM,90,0,0,0,0,3,0,1,0,69,2,1,0,0.1,0.1,0.1,6,0,38,49,77.6,5,39,2,6,1,Match Report
+1,7,2025-02-26,Wed,DFB-Pokal,Quarter-finals,Home,W 1–0,RB Leipzig,Wolfsburg,1,AM,89,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2025-03-01,Sat,Bundesliga,Matchweek 24,Home,L 1–2,RB Leipzig,Mainz 05,1,AM,90,1,0,0,0,1,1,0,0,76,1,1,0,0.4,0.4,0.4,7,0,41,57,71.9,5,54,3,8,1,Match Report
+1,7,2025-03-08,Sat,Bundesliga,Matchweek 25,Away,D 0–0,RB Leipzig,Freiburg,1,LM,87,0,0,0,0,0,0,0,0,70,3,0,1,0,0,0.1,5,0,44,58,75.9,6,35,4,6,1,Match Report
+1,7,2025-03-15,Sat,Bundesliga,Matchweek 26,Home,W 2–0,RB Leipzig,Dortmund,1,AM,80,1,1,0,0,4,1,0,0,43,0,2,1,0.4,0.4,0.2,4,1,21,27,77.8,5,13,0,1,0,Match Report
+1,7,2025-03-20,Thu,UEFA Nations League,Quarter-finals,Home,D 2–2,nl Netherlands,es Spain,0,,16,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2025-03-23,Sun,UEFA Nations League,Quarter-finals,Away,D 3 (4)–3 (5),nl Netherlands,es Spain,0,,42,1,1,1,1,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2025-03-29,Sat,Bundesliga,Matchweek 27,Away,L 0–1,RB Leipzig,Gladbach,1,CM,90,0,0,0,0,3,2,0,0,74,1,0,0,0.1,0.1,0.1,10,0,46,57,80.7,4,42,0,4,2,Match Report
+1,7,2025-04-02,Wed,DFB-Pokal,Semi-finals,Away,L 1–3,RB Leipzig,Stuttgart,1,LM,90,0,0,0,0,3,1,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2025-04-05,Sat,Bundesliga,Matchweek 28,Home,W 3–1,RB Leipzig,Hoffenheim,1,AM,90,0,0,0,0,0,0,0,0,73,3,0,1,0,0,0,5,1,54,64,84.4,9,42,4,0,0,Match Report
+1,7,2025-04-11,Fri,Bundesliga,Matchweek 29,Away,W 3–2,RB Leipzig,Wolfsburg,1,AM,84,2,0,0,0,3,2,1,0,56,0,1,0,0.2,0.2,0.2,4,0,31,40,77.5,7,28,2,5,2,Match Report
+1,7,2025-04-26,Sat,Bundesliga,Matchweek 31,Away,L 0–4,RB Leipzig,Eint Frankfurt,0,"FW,DM",75,0,0,0,0,0,0,0,0,52,4,0,1,0,0,0,1,0,26,40,65,3,22,3,3,1,Match Report
+1,7,2025-05-03,Sat,Bundesliga,Matchweek 32,Home,D 3–3,RB Leipzig,Bayern Munich,1,"LM,AM",90,0,2,0,0,1,1,0,0,49,0,1,4,0,0,0.6,4,2,24,31,77.4,3,34,4,7,1,Match Report
+1,7,2025-05-10,Sat,Bundesliga,Matchweek 33,Away,D 0–0,RB Leipzig,Werder Bremen,1,LM,90,0,0,0,0,5,1,0,0,74,1,0,1,0.5,0.5,0.1,8,0,43,56,76.8,7,37,8,7,2,Match Report
+1,7,2025-05-17,Sat,Bundesliga,Matchweek 34,Home,L 2–3,RB Leipzig,Stuttgart,1,AM,90,1,0,0,0,4,3,0,0,71,2,0,2,0.7,0.7,0,5,2,41,56,73.2,5,48,5,3,2,Match Report
+1,7,2025-06-07,Sat,WCQ,First round,Away,W 2–0,nl Netherlands,fi Finland,0,,5,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,7,2025-06-10,Tue,WCQ,First round,Home,W 8–0,nl Netherlands,mt Malta,1,FW,90,1,0,0,0,4,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,8,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,CM,72,1,0,0,0,1,1,0,0,86,2,1,0,0.1,0.1,0,2,0,74,80,92.5,6,62,1,0,0,Match Report
+1,8,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,"DM,CM",81,0,0,0,0,0,0,1,0,73,1,1,2,0,0,0.2,3,0,56,61,91.8,9,47,4,6,4,Match Report
+1,8,2024-09-06,Fri,Africa Cup of Nations qualification,Group stage,Home,D 1–1,ml Mali,mz Mozambique,0,AM,89,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-09-10,Tue,Africa Cup of Nations qualification,Group stage,Neutral,W 1–0,ml Mali,sz Eswatini,0,AM,64,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,0,CM,28,0,0,0,0,0,0,1,0,16,1,0,0,0,0,0,0,0,13,13,100,2,8,0,0,0,Match Report
+1,8,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,CM,70,0,0,0,0,0,0,1,0,66,1,3,0,0,0,0,0,0,47,56,83.9,1,46,1,4,0,Match Report
+1,8,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,1,CM,90,0,0,0,0,0,0,0,0,65,5,3,1,0,0,0.1,2,0,49,54,90.7,5,46,1,4,3,Match Report
+1,8,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,0,CM,12,0,0,0,0,0,0,0,0,11,1,0,0,0,0,0,1,0,8,10,80,0,8,0,0,0,Match Report
+1,8,2024-10-11,Fri,Africa Cup of Nations qualification,Group stage,Home,W 1–0,ml Mali,gw Guinea-Bissau,0,AM,88,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-10-15,Tue,Africa Cup of Nations qualification,Group stage,Away,D 0–0,ml Mali,gw Guinea-Bissau,0,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,CM,80,1,0,0,0,1,1,0,0,54,5,0,0,0.2,0.2,0,1,0,37,40,92.5,7,30,0,0,0,Match Report
+1,8,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,CM,86,0,0,0,0,0,0,0,0,59,1,2,2,0,0,0,1,0,36,43,83.7,4,31,0,5,1,Match Report
+1,8,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,0,,45,0,0,0,0,0,0,1,0,,,2,,,,,,,,,,,,,,,Match Report
+1,8,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,0,CM,35,0,0,0,0,0,0,0,0,29,1,1,0,0,0,0,0,0,23,23,100,2,10,1,0,0,Match Report
+1,8,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,"LM,CM",90,0,0,0,0,0,0,1,0,87,4,1,0,0,0,0,1,0,56,66,84.8,5,49,0,2,0,Match Report
+1,8,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,0,DM,7,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,9,10,90,2,9,2,0,0,Match Report
+1,8,2024-11-15,Fri,Africa Cup of Nations qualification,Group stage,Away,W 1–0,ml Mali,mz Mozambique,0,AM,90,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-11-19,Tue,Africa Cup of Nations qualification,Group stage,Home,W 6–0,ml Mali,sz Eswatini,0,DM,45,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,CM,90,0,0,0,0,1,0,1,0,56,2,2,0,0,0,0,1,0,43,47,91.5,0,35,1,2,0,Match Report
+1,8,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,0,CM,22,0,0,0,0,0,0,0,0,20,2,0,1,0,0,0,4,0,14,16,87.5,2,13,2,3,2,Match Report
+1,8,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,CM,90,0,0,0,0,0,0,0,0,70,2,2,1,0,0,0,0,0,52,57,91.2,6,45,0,1,0,Match Report
+1,8,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,"CM,DM",79,0,0,0,0,1,0,1,0,74,5,1,0,0,0,0,3,0,49,62,79,11,49,3,2,1,Match Report
+1,8,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,CM,78,0,0,0,0,0,0,1,0,30,5,0,0,0,0,0,0,0,21,24,87.5,2,16,0,0,0,Match Report
+1,8,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,DM,60,0,0,0,0,1,0,0,0,42,1,1,0,0,0,0,0,0,34,34,100,2,28,0,1,1,Match Report
+1,8,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,DM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,8,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,DM,90,0,0,0,0,0,0,0,0,78,3,1,0,0,0,0,0,0,61,70,87.1,3,46,0,0,0,Match Report
+1,8,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,0,CB,4,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,10,10,100,2,8,0,0,0,Match Report
+1,8,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,DM,63,0,0,0,0,1,0,0,0,28,0,0,0,0.1,0.1,0,0,0,19,24,79.2,4,10,0,0,0,Match Report
+1,8,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,0,CM,29,0,0,0,0,0,0,0,0,36,2,2,1,0,0,0,0,0,29,30,96.7,4,22,2,0,0,Match Report
+1,8,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,CM,90,0,0,0,0,0,0,1,0,,,6,,,,,,,,,,,,,,,Match Report
+1,8,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,CM,120,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,CM,45,0,0,0,0,0,0,0,0,19,1,0,0,0,0,0,0,0,11,13,84.6,0,8,1,2,0,Match Report
+1,8,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,0,CM,45,0,0,0,0,0,0,0,0,62,1,0,0,0,0,0,2,0,56,58,96.6,4,45,0,0,0,Match Report
+1,8,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,"DM,LM",67,0,0,0,0,2,1,0,0,48,2,0,1,0.1,0.1,0,1,0,30,33,90.9,2,24,0,0,0,Match Report
+1,8,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,CM,56,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,8,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,0,,45,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,8,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,0,CM,13,0,0,0,0,1,0,0,0,9,2,0,0,0,0,0,0,0,2,3,66.7,0,1,0,0,0,Match Report
+1,8,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,0,RM,6,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,4,5,80,0,4,0,1,0,Match Report
+1,8,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,CM,45,0,0,0,0,1,0,1,0,50,2,1,0,0.1,0.1,0,0,0,40,43,93,1,38,0,0,0,Match Report
+1,8,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,0,"CM,LM",14,0,0,0,0,0,0,0,0,8,0,0,1,0,0,0,0,0,5,7,71.4,0,5,0,0,0,Match Report
+1,8,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,LM,45,0,0,0,0,0,0,0,0,25,1,0,0,0,0,0,1,0,18,22,81.8,1,16,0,1,0,Match Report
+1,8,2025-03-20,Thu,WCQ,First round,Neutral,W 3–0,ml Mali,km Comoros,0,AM,79,0,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2025-03-24,Mon,WCQ,First round,Neutral,D 0–0,ml Mali,cf CAR,0,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,8,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,0,LM,11,0,0,0,0,0,0,0,0,12,1,0,0,0,0,0.1,1,0,9,11,81.8,1,10,0,1,1,Match Report
+1,8,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,CM,54,0,0,0,0,1,1,1,0,48,3,0,0,0,0,0,0,0,39,41,95.1,2,27,0,0,0,Match Report
+1,8,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,"RM,LM",90,0,0,0,0,4,1,0,0,46,3,1,2,0.2,0.2,0.1,0,0,29,33,87.9,3,25,3,0,0,Match Report
+1,8,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,CM,90,0,0,0,0,1,0,0,0,43,3,2,2,0,0,0,0,0,24,29,82.8,1,13,0,0,0,Match Report
+1,8,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,DM,90,0,0,0,0,1,0,0,0,31,1,3,0,0,0,0,1,0,22,25,88,3,11,1,0,0,Match Report
+1,8,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,0,"DM,CM",45,0,0,0,0,0,0,0,0,26,1,1,0,0,0,0,1,0,20,23,87,2,15,0,1,0,Match Report
+1,8,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,0,DM,38,0,0,0,0,0,0,0,0,21,0,1,2,0,0,0,0,0,10,15,66.7,1,13,0,0,0,Match Report
+1,8,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,"DM,CM",90,0,0,0,0,0,0,1,0,41,4,2,1,0,0,0,0,0,17,23,73.9,3,11,1,1,1,Match Report
+1,8,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,0,DM,25,0,0,0,0,0,0,0,0,11,1,0,0,0,0,0,0,0,8,10,80,0,5,0,0,0,Match Report
+1,9,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,0,LM,1,0,0,0,0,1,0,0,0,7,0,0,0,0.2,0.2,0,0,0,3,5,60,0,1,0,0,0,Match Report
+1,9,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,0,FW,24,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,6,8,75,1,6,1,1,1,Match Report
+1,9,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,0,FW,10,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,2,4,50,2,5,0,0,0,Match Report
+1,9,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,FW,63,1,0,1,1,3,0,0,0,20,2,0,2,0.9,0.1,0,3,0,7,14,50,2,12,1,1,0,Match Report
+1,9,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,0,FW,29,0,0,0,0,0,0,1,0,12,1,0,0,0,0,0,0,0,5,7,71.4,2,7,0,1,0,Match Report
+1,9,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,0,,22,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,9,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,0,LW,26,0,1,0,0,0,0,0,0,13,0,0,0,0,0,0.8,2,1,7,10,70,0,9,3,3,0,Match Report
+1,9,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,0,LW,13,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0.1,2,0,8,9,88.9,2,7,2,0,0,Match Report
+1,9,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,0,FW,45,1,0,0,0,3,2,0,0,14,0,0,0,0.4,0.4,0,1,0,3,7,42.9,0,3,0,1,0,Match Report
+1,9,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,FW,55,0,0,0,0,1,1,0,0,22,0,1,0,0.1,0.1,0,0,0,6,10,60,0,12,2,0,0,Match Report
+1,9,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,FW,53,1,0,0,0,1,1,0,0,11,0,0,0,0.5,0.5,0,0,0,4,6,66.7,1,5,0,1,0,Match Report
+1,9,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,"FW,LW",80,0,0,0,0,3,0,0,0,24,1,0,0,0.2,0.2,0,0,0,14,17,82.4,1,14,1,0,0,Match Report
+1,9,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,FW,78,0,0,0,0,1,0,0,0,32,3,0,1,0.1,0.1,0,2,0,11,19,57.9,2,13,2,2,0,Match Report
+1,9,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,FW,44,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,9,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,0,FW,3,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,,0,1,0,0,0,Match Report
+1,9,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,0,FW,16,1,0,0,0,2,1,0,0,6,0,0,0,0.9,0.9,0,0,0,2,3,66.7,0,3,0,0,0,Match Report
+1,9,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,FW,90,1,0,0,0,7,3,0,0,20,0,0,0,1.5,1.5,0,0,0,3,6,50,0,10,0,4,0,Match Report
+1,9,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,0,FW,23,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,2,2,100,0,3,0,0,0,Match Report
+1,9,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,LW,45,0,1,0,0,2,1,0,0,29,0,0,0,0.1,0.1,0.6,4,1,16,25,64,3,21,4,1,0,Match Report
+1,9,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,FW,67,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0,0,0,4,9,44.4,1,15,0,2,0,Match Report
+1,9,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,LW,60,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0,1,0,10,20,50,4,16,2,0,0,Match Report
+1,9,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,0,FW,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,Match Report
+1,9,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,LW,66,0,0,0,0,1,0,1,0,34,1,1,1,0.1,0.1,0,1,0,6,18,33.3,2,19,0,5,1,Match Report
+1,9,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,0,FW,25,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0,0,2,5,40,0,1,0,1,0,Match Report
+1,9,2025-06-05,Thu,WCQ,WCQ — CONMEBOL (M),Away,D 0–0,br Brazil,ec Ecuador,1,FW,64,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,9,2025-06-10,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 1–0,br Brazil,py Paraguay,0,,12,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,10,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,LM,78,0,1,0,0,1,0,0,0,78,0,1,0,0,0,0.2,8,1,55,71,77.5,15,46,3,2,2,Match Report
+1,10,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,LM,78,0,1,0,0,3,1,0,0,80,1,0,2,0.4,0.4,0.4,2,1,57,68,83.8,10,56,1,2,0,Match Report
+1,10,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,"AM,LM",81,0,0,0,0,2,2,1,0,68,2,0,0,0.1,0.1,0.1,6,0,41,57,71.9,4,43,2,3,0,Match Report
+1,10,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,LM,79,0,0,0,0,0,0,0,0,66,2,2,0,0,0,0.2,3,0,50,60,83.3,4,46,0,2,1,Match Report
+1,10,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,0,,29,0,0,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,10,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,LM,87,1,0,0,0,3,2,1,0,77,3,1,0,0.9,0.9,0.4,10,2,45,57,78.9,11,51,5,11,7,Match Report
+1,10,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,LM,76,0,0,0,0,3,2,0,0,60,0,1,0,0.5,0.5,0,3,0,48,56,85.7,5,54,3,0,0,Match Report
+1,10,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,0,LM,26,0,1,0,0,1,1,0,0,23,0,2,0,0,0,0.3,3,1,13,18,72.2,4,13,1,1,1,Match Report
+1,10,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,LM,84,1,0,0,0,3,1,0,0,46,1,0,1,0.3,0.3,0,4,1,29,37,78.4,5,29,1,2,1,Match Report
+1,10,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,LM,45,0,1,0,0,0,0,0,0,48,0,1,0,0,0,0.5,6,1,34,42,81,5,33,1,3,1,Match Report
+1,10,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,LM,72,0,0,0,0,1,1,0,0,59,1,0,1,0,0,0,3,0,35,49,71.4,6,43,6,9,4,Match Report
+1,10,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,LM,61,0,0,0,0,2,2,0,0,46,2,0,1,0.1,0.1,0.1,1,0,29,37,78.4,8,30,0,2,1,Match Report
+1,10,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,0,RM,9,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0,1,1,5,5,100,1,2,0,0,0,Match Report
+1,10,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,"LM,LW",65,0,0,0,0,0,0,0,0,38,2,1,1,0,0,0,0,0,24,28,85.7,4,26,0,4,1,Match Report
+1,10,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,0,DM,7,0,0,0,0,0,0,0,0,14,2,0,1,0,0,0,0,0,8,10,80,2,8,0,0,0,Match Report
+1,10,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,LM,89,2,0,0,0,2,2,0,0,58,2,1,1,0.8,0.8,0,2,1,42,48,87.5,1,44,3,2,2,Match Report
+1,10,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,0,LM,22,0,0,0,0,0,0,0,0,17,0,1,0,0,0,0.2,3,0,11,14,78.6,3,10,1,1,0,Match Report
+1,10,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,LM,84,0,0,0,0,2,0,0,0,61,0,0,0,0.2,0.2,0,3,1,42,52,80.8,4,43,0,4,1,Match Report
+1,10,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,0,"LM,CM",79,0,0,0,0,1,0,0,0,65,1,1,1,0.4,0.4,0.2,3,0,40,53,75.5,8,46,1,4,0,Match Report
+1,10,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,0,LM,12,0,1,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.5,2,2,7,9,77.8,0,8,2,1,1,Match Report
+1,10,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,AM,90,0,0,0,0,2,0,0,0,67,0,0,0,0.1,0.1,0.2,5,0,51,62,82.3,3,51,1,3,2,Match Report
+1,10,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,AM,76,2,0,0,0,3,2,1,0,56,1,0,0,0.6,0.6,0.1,6,2,41,52,78.8,3,48,3,3,3,Match Report
+1,10,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,AM,78,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,10,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,AM,57,1,0,0,0,1,1,0,0,37,1,2,1,0.1,0.1,0,1,0,23,28,82.1,4,23,1,2,0,Match Report
+1,10,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,0,DM,27,0,0,0,0,2,0,1,0,32,0,0,0,0.1,0.1,0,0,0,20,27,74.1,6,27,2,1,0,Match Report
+1,10,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,0,AM,27,0,0,0,0,1,0,0,0,19,0,0,1,0,0,0,0,0,13,16,81.3,4,11,1,1,1,Match Report
+1,10,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,0,LM,29,0,0,0,0,1,0,0,0,37,0,0,1,0,0,0,1,0,31,35,88.6,7,30,2,0,0,Match Report
+1,10,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,0,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,10,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,0,LM,45,0,0,0,0,1,0,0,0,34,1,1,0,0.1,0.1,0,1,0,22,28,78.6,5,23,2,4,3,Match Report
+1,10,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,"AM,DM",90,0,0,0,0,2,0,0,0,71,2,0,2,0.1,0.1,0,1,0,50,59,84.7,6,37,1,4,1,Match Report
+1,10,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,LM,88,1,1,0,0,1,1,0,0,55,1,0,1,0.5,0.5,0.6,5,1,39,44,88.6,7,39,5,3,1,Match Report
+1,10,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,LM,63,1,0,0,0,1,1,0,0,60,1,0,0,0.7,0.7,0.1,4,0,43,51,84.3,7,43,2,2,1,Match Report
+1,10,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,0,LM,27,0,1,0,0,0,0,0,0,24,0,0,0,0,0,0.1,2,2,22,25,88,4,18,1,1,1,Match Report
+1,10,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,0,LM,81,0,0,0,0,0,0,1,0,75,4,0,1,0,0,0.2,5,0,45,64,70.3,7,52,0,6,1,Match Report
+1,10,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,LM,71,0,0,0,0,0,0,0,0,47,0,0,1,0,0,0,0,0,35,41,85.4,5,30,2,2,1,Match Report
+1,10,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,0,LM,30,0,0,0,0,1,0,1,0,27,1,0,0,0,0,0.1,4,1,17,23,73.9,4,21,1,2,1,Match Report
+1,10,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,LM,76,1,0,0,0,4,1,0,0,74,0,1,2,0.4,0.4,0.1,4,1,60,66,90.9,9,54,1,1,0,Match Report
+1,10,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,0,AM,23,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0.4,1,0,11,16,68.8,0,13,0,3,0,Match Report
+1,10,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,LM,87,0,0,0,0,1,0,0,0,39,0,0,0,0,0,0,2,0,34,37,91.9,5,30,1,0,0,Match Report
+1,10,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,LM,79,0,1,0,0,0,0,0,0,55,2,0,2,0,0,0.3,4,1,44,49,89.8,8,44,1,3,1,Match Report
+1,10,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,LM,78,0,1,0,0,1,1,0,0,69,0,0,0,0,0,0.1,3,1,49,59,83.1,6,46,0,3,1,Match Report
+1,10,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,LM,74,0,0,0,0,1,0,0,0,68,1,0,0,0.1,0.1,0.2,6,0,53,60,88.3,7,51,3,4,1,Match Report
+1,10,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,LM,44,0,0,0,0,1,1,0,0,27,1,1,1,0.2,0.2,0,3,2,17,23,73.9,4,21,0,0,0,Match Report
+1,10,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,0,LM,45,0,1,0,0,0,0,0,0,26,1,1,0,0,0,0.1,3,1,20,24,83.3,4,16,2,3,2,Match Report
+1,10,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,LM,64,1,0,0,0,2,1,0,0,42,0,1,0,0.6,0.6,0.1,4,0,28,37,75.7,6,30,0,2,0,Match Report
+1,11,2024-08-16,Fri,DFB-Pokal,Round of 64,Away,W 4–0,Bayern Munich,Ulm,1,AM,62,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,11,2024-09-01,Sun,Bundesliga,Matchweek 2,Home,W 2–0,Bayern Munich,Freiburg,1,LM,58,0,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,0,25,29,86.2,2,26,2,2,1,Match Report
+1,11,2024-09-14,Sat,Bundesliga,Matchweek 3,Away,W 6–1,Bayern Munich,Holstein Kiel,0,LW,15,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,1,0,5,8,62.5,0,7,1,0,0,Match Report
+1,11,2024-10-02,Wed,Champions Lg,League phase,Away,L 0–1,de Bayern Munich,eng Aston Villa,0,LM,5,0,0,0,0,2,1,0,0,8,1,0,0,0.1,0.1,0,0,0,3,5,60,0,4,0,0,0,Match Report
+1,11,2024-10-06,Sun,Bundesliga,Matchweek 6,Away,D 3–3,Bayern Munich,Eint Frankfurt,0,FW,19,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,5,6,83.3,0,6,1,2,1,Match Report
+1,11,2024-10-27,Sun,Bundesliga,Matchweek 8,Away,W 5–0,Bayern Munich,Bochum,0,FW,22,0,0,0,0,3,2,0,0,16,1,0,0,0.5,0.5,0,2,1,10,11,90.9,2,12,0,4,2,Match Report
+1,11,2024-10-30,Wed,DFB-Pokal,Round of 32,Away,W 4–0,Bayern Munich,Mainz 05,0,,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,11,2024-11-30,Sat,Bundesliga,Matchweek 12,Away,D 1–1,Bayern Munich,Dortmund,1,LW,61,0,0,0,0,1,1,0,0,34,1,0,0,0,0,0,0,0,24,30,80,1,25,0,1,1,Match Report
+1,11,2024-12-03,Tue,DFB-Pokal,Round of 16,Home,L 0–1,Bayern Munich,Leverkusen,0,,7,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,11,2024-12-10,Tue,Champions Lg,League phase,Away,W 5–1,de Bayern Munich,ua Shakhtar,0,LW,26,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0.2,0,0,6,10,60,0,9,1,1,1,Match Report
+1,11,2024-12-14,Sat,Bundesliga,Matchweek 14,Away,L 1–2,Bayern Munich,Mainz 05,0,LW,27,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0,0,0,10,13,76.9,0,6,0,1,1,Match Report
+1,11,2024-12-20,Fri,Bundesliga,Matchweek 15,Home,W 5–1,Bayern Munich,RB Leipzig,0,RW,9,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0,0,0,7,7,100,2,6,0,0,0,Match Report
+1,11,2025-01-15,Wed,Bundesliga,Matchweek 17,Home,W 5–0,Bayern Munich,Hoffenheim,0,LW,45,0,1,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.3,1,1,22,24,91.7,2,21,2,2,0,Match Report
+1,11,2025-01-29,Wed,Champions Lg,League phase,Home,W 3–1,de Bayern Munich,sk Slovan Bratislava,1,LM,61,0,0,0,0,7,2,0,0,44,1,0,0,0.5,0.5,0,1,0,29,32,90.6,5,31,6,1,1,Match Report
+1,11,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,0,,46,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,11,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,AM,90,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,11,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,FW,90,0,0,0,0,7,3,0,0,41,0,0,1,0.7,0.7,0.1,2,0,16,23,69.6,0,30,2,5,1,Match Report
+1,11,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,FW,73,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,5,8,62.5,0,10,1,3,0,Match Report
+1,11,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,FW,66,0,0,0,0,1,1,0,0,11,0,0,1,0,0,0,0,0,4,5,80,1,8,0,2,0,Match Report
+1,11,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,FW,45,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,1,0,10,10,100,1,9,0,2,1,Match Report
+1,11,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,"LW,RW",76,0,0,0,0,1,1,0,0,36,2,0,0,0,0,0,3,0,22,24,91.7,2,27,3,6,2,Match Report
+1,11,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,0,LM,3,0,0,0,0,1,0,0,0,10,0,0,0,0,0,0,0,0,6,9,66.7,1,9,2,0,0,Match Report
+1,11,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,0,FW,4,1,0,1,1,0,0,0,0,3,0,0,0,0.8,0,0,0,0,1,1,100,0,1,0,0,0,Match Report
+1,11,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,0,LW,12,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,1,0,1,2,50,1,4,0,1,0,Match Report
+1,11,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,LW,90,1,0,0,0,2,1,0,0,57,1,0,1,0.2,0.2,0.5,3,0,34,45,75.6,5,41,3,3,1,Match Report
+1,11,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,LW,78,0,0,0,0,3,1,0,0,36,0,0,0,0.3,0.3,0,0,0,19,25,76,2,26,3,5,1,Match Report
+1,11,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,"LW,LM",90,0,0,0,0,5,0,0,0,66,1,0,0,0.3,0.3,0.4,7,0,36,50,72,3,40,3,6,1,Match Report
+1,11,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,LW,67,0,0,0,0,1,0,0,0,26,2,0,0,0.1,0.1,0,0,0,8,15,53.3,1,16,2,5,3,Match Report
+1,11,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,0,"LW,FW",45,0,0,0,0,2,0,0,0,14,0,0,0,0.1,0.1,0.1,2,0,8,10,80,1,4,0,1,0,Match Report
+1,11,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,"LW,FW",90,0,1,0,0,2,1,1,0,49,2,0,3,0.1,0.1,0.5,5,1,16,29,55.2,3,26,2,8,1,Match Report
+1,11,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,0,LW,30,0,0,0,0,0,0,0,0,19,1,0,1,0,0,0.1,1,0,10,14,71.4,1,10,1,1,1,Match Report
+1,11,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,"LW,FW",90,0,0,0,0,0,0,0,0,40,4,1,2,0,0,0.2,4,0,14,23,60.9,3,26,4,5,3,Match Report
+1,11,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,"FW,LW,AM",90,0,0,0,0,0,0,1,0,28,1,1,0,0,0,0.4,1,0,13,16,81.3,0,15,2,5,1,Match Report
+1,11,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,LW,82,0,0,0,0,2,1,0,0,31,3,0,0,0.7,0.7,0.6,3,1,10,18,55.6,2,17,4,5,2,Match Report
+1,13,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,LB,90,0,0,0,0,0,0,0,0,82,4,0,3,0,0,0,0,0,61,71,85.9,7,37,2,2,0,Match Report
+1,13,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,LB,72,0,0,0,0,0,0,0,0,54,1,0,0,0,0,0,0,0,47,51,92.2,4,31,2,1,1,Match Report
+1,13,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,LB,90,0,0,0,0,0,0,0,0,56,2,0,2,0,0,0,2,0,43,49,87.8,5,28,0,0,0,Match Report
+1,13,2024-09-06,Fri,UEFA Nations League,League A,Away,W 3–1,it Italy,fr France,0,,28,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,13,2024-09-09,Mon,UEFA Nations League,League A,Away,W 2–1,it Italy,il Israel,0,,19,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,13,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,LB,90,0,0,0,0,0,0,1,0,68,3,0,0,0,0,0,1,0,52,57,91.2,9,41,5,3,1,Match Report
+1,13,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,LB,45,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,13,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,LB,90,0,0,0,0,1,0,0,0,88,6,4,2,0,0,0.1,4,0,49,63,77.8,3,43,5,1,1,Match Report
+1,13,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,0,LB,79,0,0,0,0,0,0,0,0,51,3,1,0,0,0,0.1,2,0,39,40,97.5,2,34,2,0,0,Match Report
+1,13,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,LB,45,0,0,0,0,2,0,0,0,28,1,2,0,0.1,0.1,0,3,1,21,24,87.5,3,21,3,0,0,Match Report
+1,13,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,LB,90,0,0,0,0,1,1,1,0,67,5,1,2,0.1,0.1,0,1,0,48,54,88.9,6,36,2,3,2,Match Report
+1,13,2024-10-10,Thu,UEFA Nations League,League A,Home,D 2–2,it Italy,be Belgium,0,,20,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,13,2024-10-14,Mon,UEFA Nations League,League A,Home,W 4–1,it Italy,il Israel,0,,16,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,13,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,LB,87,0,1,0,0,1,0,0,0,52,3,1,2,0.1,0.1,0.7,3,1,36,41,87.8,5,30,0,2,0,Match Report
+1,13,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,LB,90,0,0,0,0,0,0,0,0,69,2,2,2,0,0,0,3,0,52,59,88.1,5,43,5,4,2,Match Report
+1,13,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,LB,90,0,0,0,0,0,0,0,0,80,1,1,2,0,0,0.1,2,0,51,62,82.3,8,50,3,5,2,Match Report
+1,13,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,0,,77,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,13,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,LB,81,0,0,0,0,0,0,0,0,42,2,2,1,0,0,0.1,3,1,32,34,94.1,5,19,2,0,0,Match Report
+1,13,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,LB,90,0,0,0,0,0,0,0,0,61,1,2,4,0,0,0.1,3,0,47,52,90.4,9,33,2,0,0,Match Report
+1,13,2024-11-14,Thu,UEFA Nations League,League A,Away,W 1–0,it Italy,be Belgium,0,,21,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,13,2024-11-17,Sun,UEFA Nations League,League A,Home,L 1–3,it Italy,fr France,0,,7,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,13,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,LB,89,0,0,0,0,0,0,0,0,55,3,0,1,0,0,0,1,0,36,45,80,3,31,3,1,0,Match Report
+1,13,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,LB,90,0,0,0,0,0,0,0,0,81,2,1,3,0,0,0,1,0,55,63,87.3,8,40,2,1,0,Match Report
+1,13,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,LB,90,0,0,0,0,0,0,0,0,70,6,1,1,0,0,0,1,0,54,60,90,6,35,2,2,2,Match Report
+1,13,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,LB,90,0,0,0,0,0,0,0,0,49,3,0,1,0,0,0,0,0,34,39,87.2,4,23,1,2,0,Match Report
+1,13,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,LB,90,0,0,0,0,0,0,0,0,59,2,0,2,0,0,0.1,2,0,45,50,90,5,36,3,0,0,Match Report
+1,13,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,LB,27,0,0,0,0,0,0,0,0,13,1,1,0,0,0,0,0,0,9,10,90,1,7,2,1,1,Match Report
+1,13,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,LB,80,0,0,0,0,0,0,0,0,69,1,1,1,0,0,0,1,0,59,61,96.7,7,47,3,0,0,Match Report
+1,13,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,LB,49,0,0,0,0,0,0,0,0,42,5,0,2,0,0,0.1,2,0,28,32,87.5,4,23,0,1,0,Match Report
+1,13,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,LB,64,0,0,0,0,0,0,0,0,50,3,0,6,0,0,0,1,0,34,36,94.4,6,31,1,1,0,Match Report
+1,13,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,LB,66,0,0,0,0,0,0,0,0,47,7,0,0,0,0,0,1,0,40,41,97.6,4,33,3,0,0,Match Report
+1,13,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,LB,71,0,0,0,0,0,0,0,0,78,4,2,3,0,0,0,0,0,59,64,92.2,2,44,0,2,1,Match Report
+1,13,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,0,LB,4,0,0,0,0,0,0,0,0,12,0,1,0,0,0,0,0,0,9,11,81.8,0,4,1,0,0,Match Report
+1,13,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,LB,90,0,0,0,0,0,0,0,0,66,7,1,4,0,0,0.1,1,0,32,46,69.6,3,39,3,2,1,Match Report
+1,13,2025-03-20,Thu,UEFA Nations League,Quarter-finals,Home,L 1–2,it Italy,de Germany,1,LM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,13,2025-03-23,Sun,UEFA Nations League,Quarter-finals,Away,D 3–3,it Italy,de Germany,1,LM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,13,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,LB,90,0,0,0,0,0,0,0,0,55,4,0,0,0,0,0.1,2,0,38,44,86.4,7,32,4,2,1,Match Report
+1,13,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,LB,78,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,2,0,62,73,84.9,3,36,4,3,2,Match Report
+1,13,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,LB,90,0,0,0,0,1,0,0,0,64,3,2,2,0,0,0,1,0,34,46,73.9,3,37,6,7,3,Match Report
+1,13,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,LB,90,0,0,0,0,0,0,0,0,49,3,2,3,0,0,0.1,2,0,32,38,84.2,3,21,3,2,1,Match Report
+1,13,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,LB,90,0,0,0,0,2,1,0,0,50,1,2,0,0.1,0.1,0,4,0,35,46,76.1,7,32,4,1,1,Match Report
+1,13,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,LB,90,0,0,0,0,0,0,0,0,64,5,0,1,0,0,0,1,0,35,49,71.4,2,24,5,2,1,Match Report
+1,13,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,LB,89,0,0,0,0,0,0,0,0,45,5,1,0,0,0,0,0,0,19,28,67.9,2,13,3,2,0,Match Report
+1,13,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,LB,90,0,0,0,0,0,0,0,0,40,1,1,0,0,0,0,1,0,25,31,80.6,1,23,0,0,0,Match Report
+1,13,2025-06-06,Fri,WCQ,First round,Away,L 0–3,it Italy,no Norway,1,LM,83,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,14,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,0,DM,13,0,0,0,0,0,0,0,0,23,2,0,0,0,0,0,0,0,18,21,85.7,2,13,0,0,0,Match Report
+1,14,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,0,CM,18,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,14,15,93.3,0,11,0,1,0,Match Report
+1,14,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,14,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,0,RB,3,0,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,3,4,75,0,1,0,0,0,Match Report
+1,14,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,RB,90,0,0,0,0,0,0,0,0,59,2,0,1,0,0,0.1,2,0,36,50,72,6,30,2,2,1,Match Report
+1,14,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,1,"CB,LB",90,0,0,0,0,0,0,0,0,79,3,1,2,0,0,0.1,2,0,55,63,87.3,3,48,4,2,1,Match Report
+1,14,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,0,LB,3,0,0,0,0,0,0,0,0,16,0,0,1,0,0,0,0,0,11,13,84.6,1,12,0,2,1,Match Report
+1,14,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,RB,90,0,0,0,0,0,0,0,0,46,1,0,1,0,0,0,0,0,40,42,95.2,4,24,0,1,1,Match Report
+1,14,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,RB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+1,14,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,0,LB,9,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,3,3,100,0,3,0,0,0,Match Report
+1,14,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,LB,90,0,0,0,0,0,0,0,0,47,1,0,1,0,0,0,1,1,31,36,86.1,2,23,1,1,0,Match Report
+1,14,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,LB,90,0,0,0,0,0,0,0,0,49,1,0,1,0,0,0.4,3,0,34,39,87.2,2,37,1,1,0,Match Report
+1,14,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,0,RM,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,4,4,100,0,4,0,0,0,Match Report
+1,14,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,"RB,CB",90,0,0,0,0,1,1,0,0,70,3,1,2,0,0,0,1,0,45,57,78.9,3,40,1,3,2,Match Report
+1,14,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,0,CB,12,0,0,0,0,0,0,0,0,17,0,0,1,0,0,0,0,0,14,16,87.5,0,12,0,0,0,Match Report
+1,14,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,CB,90,0,0,0,0,0,0,0,0,78,1,1,2,0,0,0,0,0,61,70,87.1,4,58,1,1,0,Match Report
+1,14,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,"CB,LB",90,0,0,0,0,0,0,0,0,100,1,1,2,0,0,0,0,0,92,96,95.8,4,85,0,0,0,Match Report
+1,14,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,14,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,CB,90,0,0,0,0,0,0,0,0,85,1,2,1,0,0,0,0,0,71,78,91,1,69,0,0,0,Match Report
+1,14,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,CB,90,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,71,75,94.7,1,67,0,0,0,Match Report
+1,14,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,CB,90,0,0,0,0,0,0,0,0,73,1,0,0,0,0,0,0,0,60,66,90.9,0,51,0,0,0,Match Report
+1,14,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,CB,90,0,0,0,0,0,0,0,0,62,0,1,1,0,0,0,0,0,46,53,86.8,2,36,0,0,0,Match Report
+1,14,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,CB,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+1,14,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,CB,120,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,14,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,CB,90,0,0,0,0,0,0,0,0,77,0,0,1,0,0,0,0,0,59,67,88.1,0,36,0,0,0,Match Report
+1,14,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,CB,90,0,0,0,0,0,0,0,0,72,2,1,1,0,0,0,0,0,58,63,92.1,5,38,0,0,0,Match Report
+1,14,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,LB,90,0,0,0,0,0,0,0,0,61,2,2,3,0,0,0,0,0,34,41,82.9,3,39,1,5,2,Match Report
+1,14,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,"LB,RM",89,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,1,0,39,52,75,2,38,2,1,1,Match Report
+1,14,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,CB,90,0,0,0,0,0,0,0,0,113,0,0,1,0,0,0,1,0,107,110,97.3,4,91,0,0,0,Match Report
+1,14,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,CB,90,0,0,0,0,0,0,0,0,61,0,2,1,0,0,0,0,0,44,51,86.3,4,44,0,0,0,Match Report
+1,14,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,RB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,14,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,14,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,0,CB,13,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Match Report
+1,14,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,CB,90,0,0,0,0,0,0,0,0,91,0,0,2,0,0,0,1,0,84,89,94.4,1,79,0,0,0,Match Report
+1,14,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,CB,90,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,73,77,94.8,1,69,0,1,0,Match Report
+1,14,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,CB,90,0,0,0,0,0,0,0,0,95,2,2,4,0,0,0,0,0,70,77,90.9,3,61,1,2,2,Match Report
+1,14,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,0,"CB,RM",30,0,0,0,0,0,0,0,0,21,1,2,1,0,0,0,0,0,14,17,82.4,0,15,0,0,0,Match Report
+1,14,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,"CM,CB",90,0,0,0,0,0,0,0,0,46,2,0,4,0,0,0.1,2,0,33,38,86.8,0,28,1,0,0,Match Report
+1,14,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,0,CM,11,0,0,0,0,0,0,0,0,7,0,0,1,0,0,0,0,0,4,6,66.7,0,4,0,0,0,Match Report
+1,14,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,RB,90,0,0,0,0,0,0,0,0,71,0,2,0,0,0,0,0,0,54,69,78.3,4,47,1,1,0,Match Report
+1,14,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,CM,45,0,0,0,0,0,0,0,0,21,0,2,0,0,0,0,0,0,12,15,80,1,10,0,1,1,Match Report
+1,14,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,RB,90,0,0,0,0,0,0,0,0,41,1,1,0,0,0,0,0,0,27,36,75,2,18,1,1,1,Match Report
+1,14,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,"RM,RB",90,0,0,0,0,0,0,0,0,40,2,2,1,0,0,0,0,0,23,35,65.7,3,29,0,0,0,Match Report
+1,14,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,"DM,LB",90,0,0,0,0,0,0,1,0,35,0,3,1,0,0,0,0,0,21,25,84,2,18,0,1,1,Match Report
+1,14,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,0,RM,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,Match Report
+1,14,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,"DM,RM",90,0,0,0,0,0,0,0,0,32,1,1,1,0,0,0,1,0,18,20,90,1,15,1,1,0,Match Report
+1,15,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,0,CM,13,0,0,0,0,1,0,0,0,35,3,0,0,0.1,0.1,0.2,1,0,27,29,93.1,2,13,0,3,2,Match Report
+1,15,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,0,LM,12,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,3,5,60,0,6,0,0,0,Match Report
+1,15,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,0,LM,9,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,9,11,81.8,1,6,0,0,0,Match Report
+1,15,2024-09-05,Thu,UEFA Nations League,League C,Away,W 3–1,se Sweden,az Azerbaijan,0,,18,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,15,2024-09-08,Sun,UEFA Nations League,League C,Home,W 3–0,se Sweden,ee Estonia,0,,6,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,15,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,CM,61,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,15,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,0,LM,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,100,0,1,0,0,0,Match Report
+1,15,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,LM,11,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,3,3,100,1,3,0,0,0,Match Report
+1,15,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,0,LW,14,0,0,0,0,1,0,0,0,17,1,0,0,0,0,0,1,0,10,13,76.9,1,11,2,2,1,Match Report
+1,15,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,1,LM,64,0,0,0,0,0,0,0,0,43,1,0,2,0,0,0.2,1,0,28,34,82.4,3,30,0,2,1,Match Report
+1,15,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,RM,72,0,0,0,0,2,0,0,0,47,3,1,1,0,0,0.2,2,1,34,38,89.5,4,30,1,1,1,Match Report
+1,15,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,RM,65,0,0,0,0,0,0,0,0,22,0,1,0,0,0,0,0,0,11,18,61.1,0,14,0,0,0,Match Report
+1,15,2024-11-19,Tue,UEFA Nations League,League C,Home,W 6–0,se Sweden,az Azerbaijan,0,,24,0,0,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,15,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,0,"LM,RM",1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,2,100,0,2,0,0,0,Match Report
+1,15,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,0,RM,13,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,1,0,4,4,100,1,5,0,0,0,Match Report
+1,15,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,0,LM,6,0,0,0,0,0,0,0,0,10,1,1,0,0,0,0,0,0,9,9,100,0,9,0,0,0,Match Report
+1,15,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,0,DM,11,0,0,0,0,0,0,0,0,14,0,1,1,0,0,0,1,0,10,11,90.9,3,12,2,0,0,Match Report
+1,15,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,0,CM,12,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,18,18,100,2,16,1,1,1,Match Report
+1,15,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,0,DM,30,0,0,0,0,1,0,1,0,32,3,1,0,0.1,0.1,0,0,0,27,28,96.4,2,23,0,0,0,Match Report
+1,15,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,DM,90,0,0,0,0,0,0,1,0,61,1,3,0,0,0,0,1,0,48,49,98,3,40,0,4,2,Match Report
+1,15,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,0,,12,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,15,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,0,DM,33,0,0,0,0,0,0,1,0,38,2,0,0,0,0,0,1,1,24,32,75,2,25,2,1,1,Match Report
+1,15,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,0,DM,27,0,0,0,0,0,0,0,0,30,2,1,1,0,0,0,0,0,24,26,92.3,2,22,0,0,0,Match Report
+1,15,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,DM,61,0,0,0,0,0,0,0,0,42,1,2,3,0,0,0,0,0,29,36,80.6,3,27,3,3,1,Match Report
+1,15,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,CM,90,1,0,0,0,2,2,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,15,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,0,,53,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,15,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,"CM,LM",90,0,0,0,0,0,0,0,0,57,6,1,2,0,0,0,2,0,37,41,90.2,0,20,1,4,2,Match Report
+1,15,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,"DM,CM",90,0,0,0,0,1,0,1,0,89,3,1,1,0,0,0,0,0,75,81,92.6,4,44,1,1,0,Match Report
+1,15,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,RM,90,0,0,0,0,1,1,0,0,46,5,0,1,0.4,0.4,0,0,0,29,35,82.9,3,29,0,2,2,Match Report
+1,15,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,"RM,LM",90,0,0,0,0,1,0,0,0,52,0,3,0,0.1,0.1,0.1,2,0,39,43,90.7,7,33,3,0,0,Match Report
+1,15,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,LM,90,0,1,0,0,1,1,1,0,76,2,1,0,0.1,0.1,0.2,5,1,61,67,91,10,56,3,2,0,Match Report
+1,15,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,0,RM,45,0,0,0,0,1,0,0,0,23,1,0,0,0.1,0.1,0,0,0,16,17,94.1,2,14,0,3,1,Match Report
+1,15,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,0,,34,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,15,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,DM,90,0,0,0,0,1,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+1,15,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,RM,63,0,0,0,0,2,1,0,0,49,0,1,2,0.2,0.2,0,2,1,34,38,89.5,0,33,1,3,1,Match Report
+1,15,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,"LM,RM",84,0,0,0,0,1,0,0,0,43,3,2,3,0.1,0.1,0,2,0,30,35,85.7,2,24,2,2,1,Match Report
+1,15,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,"RM,LM,CM",90,0,0,0,0,0,0,0,0,70,5,0,2,0,0,0,0,0,49,56,87.5,4,48,1,4,2,Match Report
+1,15,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,RM,90,0,0,0,0,1,0,0,0,56,2,0,3,0,0,0.1,2,0,36,39,92.3,5,37,4,7,4,Match Report
+1,15,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,0,"CM,RM",45,0,1,0,0,1,0,0,0,44,1,0,0,0,0,0,1,1,34,38,89.5,3,25,2,3,2,Match Report
+1,15,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,CM,83,0,0,0,0,1,0,0,0,58,2,5,0,0,0,0.1,3,0,45,49,91.8,5,38,2,3,3,Match Report
+1,15,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,0,"DM,LM",45,0,0,0,0,1,0,0,0,32,2,1,1,0,0,0,1,0,17,22,77.3,1,18,3,5,2,Match Report
+1,15,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,RM,63,0,0,0,0,1,0,0,0,28,1,3,0,0.1,0.1,0,0,0,16,19,84.2,2,16,2,3,2,Match Report
+1,15,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,RM,79,0,0,0,0,1,1,0,0,41,2,2,0,0.1,0.1,0.1,3,0,24,29,82.8,1,29,1,2,0,Match Report
+1,15,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,RM,90,0,0,0,0,1,0,0,0,54,0,2,2,0,0,0,3,0,39,41,95.1,6,30,3,5,1,Match Report
+1,15,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,0,"RM,LM",36,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0.1,3,1,15,18,83.3,3,12,3,0,0,Match Report
+1,15,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,"RM,LM,CM,DM",90,0,0,0,0,0,0,0,0,43,0,0,2,0,0,0,1,0,21,28,75,2,22,1,3,3,Match Report
+1,15,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,0,CM,10,0,0,0,0,0,0,0,0,12,1,0,0,0,0,0,0,0,8,10,80,1,4,1,0,0,Match Report
+1,15,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,"DM,RM",90,0,0,0,0,0,0,0,0,40,2,2,2,0,0,0,1,0,21,31,67.7,0,21,2,1,0,Match Report
+1,17,2024-07-04,Thu,Copa América,Quarter-finals,Neutral,D 1 (4)–1 (2),ar Argentina,ec Ecuador,1,CB,90,0,0,0,0,0,0,0,0,77,5,0,2,0,0,0,0,0,63,67,94,5,46,1,0,0,Match Report
+1,17,2024-07-09,Tue,Copa América,Semi-finals,Neutral,W 2–0,ar Argentina,ca Canada,1,CB,90,0,0,0,0,0,0,0,0,86,2,1,2,0,0,0,2,1,72,78,92.3,1,59,0,0,0,Match Report
+1,17,2024-07-14,Sun,Copa América,Final,Neutral,W 1–0,ar Argentina,co Colombia,1,CB,120,0,0,0,0,0,0,0,0,51,3,4,2,0,0,0.1,1,0,35,36,97.2,2,25,1,0,0,Match Report
+1,17,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,CB,90,0,0,0,0,1,0,0,0,102,1,0,0,0.1,0.1,0,1,0,89,97,91.8,9,61,0,0,0,Match Report
+1,17,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,CB,90,1,0,0,0,3,2,0,0,115,6,0,2,0.5,0.5,0.2,2,0,91,98,92.9,5,81,0,0,0,Match Report
+1,17,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,CB,90,0,0,0,0,0,0,0,0,60,2,0,2,0,0,0,0,0,47,54,87,4,34,1,0,0,Match Report
+1,17,2024-09-05,Thu,WCQ,WCQ — CONMEBOL (M),Home,W 3–0,ar Argentina,cl Chile,1,CB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,17,2024-09-10,Tue,WCQ,WCQ — CONMEBOL (M),Away,L 1–2,ar Argentina,co Colombia,1,CB,90,0,0,0,0,0,0,1,0,,,4,,,,,,,,,,,,,,,Match Report
+1,17,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,CB,90,0,0,0,0,1,1,0,0,84,2,1,3,0,0,0,1,0,70,73,95.9,3,64,1,0,0,Match Report
+1,17,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,CB,90,0,0,0,0,1,1,0,0,65,0,3,0,0.1,0.1,0,2,1,47,55,85.5,7,37,1,0,0,Match Report
+1,17,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,0,CB,90,0,0,0,0,1,0,0,0,130,1,2,4,0.1,0.1,0,1,1,107,120,89.2,1,98,0,1,0,Match Report
+1,17,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,0,CB,90,0,0,0,0,1,1,0,0,84,3,1,3,0,0,0,2,1,65,70,92.9,4,60,0,1,1,Match Report
+1,17,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,0,CB,90,0,0,0,0,2,0,0,0,108,2,1,1,0.2,0.2,0.1,3,0,94,98,95.9,2,78,1,0,0,Match Report
+1,17,2024-10-15,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 6–0,ar Argentina,bo Bolivia,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,17,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,CB,90,0,0,0,0,0,0,0,0,85,4,0,0,0,0,0,0,0,68,80,85,4,59,3,0,0,Match Report
+1,17,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,0,CB,90,0,0,0,0,1,0,0,0,93,6,2,1,0.1,0.1,0.1,2,0,67,77,87,2,51,0,1,0,Match Report
+1,17,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,0,CB,51,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,17,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,CB,60,0,0,0,0,0,0,1,0,44,1,4,0,0,0,0,2,0,38,40,95,5,28,0,1,1,Match Report
+1,17,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,CB,90,0,0,0,0,1,0,0,0,90,0,0,0,0.1,0.1,0.1,2,0,72,84,85.7,6,63,3,0,0,Match Report
+1,17,2024-11-14,Thu,WCQ,WCQ — CONMEBOL (M),Away,L 1–2,ar Argentina,py Paraguay,1,CB,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,17,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,CB,14,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,3,4,75,0,2,0,0,0,Match Report
+1,17,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,0,CB,60,0,0,0,0,1,1,0,0,53,0,0,0,0,0,0,0,0,38,51,74.5,5,29,0,0,0,Match Report
+1,17,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,CB,90,0,0,0,0,0,0,0,0,74,1,1,1,0,0,0,0,0,49,61,80.3,5,52,2,0,0,Match Report
+1,17,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,0,CB,67,0,0,0,0,0,0,0,0,58,2,2,2,0,0,0,0,0,41,48,85.4,3,35,0,0,0,Match Report
+1,17,2025-03-21,Fri,WCQ,WCQ — CONMEBOL (M),Away,W 1–0,ar Argentina,uy Uruguay,1,CB,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+1,17,2025-03-25,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 4–1,ar Argentina,br Brazil,1,CB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,17,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,CB,90,0,0,0,0,0,0,1,0,70,2,2,1,0,0,0,0,0,52,60,86.7,1,39,1,0,0,Match Report
+1,17,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,CB,90,0,0,0,0,2,2,0,0,74,1,2,1,0.2,0.2,0,1,0,58,64,90.6,0,51,1,1,0,Match Report
+1,17,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,CB,90,0,0,0,0,0,0,0,0,84,0,1,0,0,0,0,0,0,72,78,92.3,9,51,1,1,0,Match Report
+1,17,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,0,CB,90,0,0,0,0,1,1,0,0,97,1,2,1,0.1,0.1,0.1,3,2,75,83,90.4,9,63,0,0,0,Match Report
+1,17,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,0,CB,90,0,0,0,0,2,0,1,0,68,2,4,1,0.1,0.1,0.2,1,0,39,46,84.8,1,36,0,2,2,Match Report
+1,17,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,0,CB,45,0,0,0,0,1,0,1,0,44,2,0,0,0.1,0.1,0,0,0,37,37,100,5,23,0,0,0,Match Report
+1,17,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,0,CB,90,0,0,0,0,3,0,1,0,60,0,3,0,0.1,0.1,0.3,5,1,43,49,87.8,1,35,0,0,0,Match Report
+1,17,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,0,CB,90,0,1,0,0,1,0,0,0,39,2,2,2,0.1,0.1,0.4,1,1,26,27,96.3,1,11,0,0,0,Match Report
+1,17,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,0,CB,90,0,0,0,0,0,0,0,0,28,1,0,1,0,0,0,1,0,12,13,92.3,1,11,0,0,0,Match Report
+1,17,2025-06-05,Thu,WCQ,WCQ — CONMEBOL (M),Away,W 1–0,ar Argentina,cl Chile,0,CB,90,0,0,0,0,0,0,1,0,,,3,,,,,,,,,,,,,,,Match Report
+1,17,2025-06-10,Tue,WCQ,WCQ — CONMEBOL (M),Home,D 1–1,ar Argentina,co Colombia,1,CB,90,0,0,0,0,0,0,0,0,,,5,,,,,,,,,,,,,,,Match Report
+1,19,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,FW,90,0,0,0,0,3,3,0,0,29,2,0,0,0.3,0.3,0.1,1,0,15,19,78.9,1,19,3,3,3,Match Report
+1,19,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,FW,90,0,0,0,0,2,0,0,0,27,2,0,1,0.2,0.2,0,2,0,11,15,73.3,2,18,1,2,0,Match Report
+1,19,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,FW,61,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,19,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,FW,87,1,0,0,0,4,2,0,0,32,0,0,0,1.6,1.6,0,2,0,11,20,55,2,20,4,1,0,Match Report
+1,19,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,FW,84,1,1,0,0,2,2,0,0,39,2,1,0,0.9,0.9,0.1,2,1,19,22,86.4,3,20,1,5,0,Match Report
+1,19,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,FW,90,1,0,0,0,4,3,0,0,31,0,0,1,1.3,1.3,0.2,5,1,15,18,83.3,3,13,1,2,2,Match Report
+1,19,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,0,RM,9,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,1,4,25,0,4,1,1,1,Match Report
+1,19,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,FW,90,0,1,0,0,0,0,0,0,18,0,0,0,0,0,0.5,3,2,14,17,82.4,4,12,2,1,1,Match Report
+1,19,2024-10-10,Thu,UEFA Nations League,League B,Home,L 1–2,eng England,gr Greece,0,,18,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,19,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,FW,80,0,0,0,0,1,0,0,0,25,2,0,0,0.1,0.1,0.1,2,1,9,12,75,2,13,1,7,2,Match Report
+1,19,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,FW,27,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,2,0,4,4,100,3,5,0,3,1,Match Report
+1,19,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,FW,90,0,0,0,0,1,0,0,0,36,1,0,1,0,0,0,2,0,12,22,54.5,5,20,2,6,2,Match Report
+1,19,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,FW,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,19,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,FW,90,2,0,0,0,5,3,0,0,17,2,0,1,1.5,1.5,0,1,1,3,5,60,0,10,0,0,0,Match Report
+1,19,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,0,LW,25,1,0,0,0,1,1,0,0,12,1,0,0,0.8,0.8,0,0,0,2,3,66.7,0,9,2,2,1,Match Report
+1,19,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,FW,90,0,0,0,0,4,2,0,0,39,0,0,2,0.4,0.4,0,0,0,17,23,73.9,2,22,1,6,3,Match Report
+1,19,2024-11-17,Sun,UEFA Nations League,League B,Home,W 5–0,eng England,ie Rep. of Ireland,0,,15,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,19,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,FW,90,0,1,0,0,1,1,0,0,22,0,0,0,0.1,0.1,0.4,2,1,9,12,75,1,15,2,3,0,Match Report
+1,19,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,FW,90,0,0,0,0,4,2,0,0,36,0,0,1,0.8,0.8,0.1,1,0,17,21,81,3,26,4,4,1,Match Report
+1,19,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,FW,90,0,0,0,0,3,0,0,0,29,1,0,0,0.2,0.2,0.1,2,0,12,16,75,4,25,3,1,1,Match Report
+1,19,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,FW,90,1,0,0,0,3,2,0,0,25,1,0,1,0.9,0.9,0.4,2,0,11,13,84.6,2,12,0,0,0,Match Report
+1,19,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,0,FW,31,0,1,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.1,2,1,3,4,75,1,6,0,0,0,Match Report
+1,19,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,FW,81,0,0,0,0,1,0,0,0,13,0,0,0,0.3,0.3,0,1,1,5,7,71.4,0,5,0,0,0,Match Report
+1,19,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,FW,89,2,0,0,0,2,2,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,19,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,FW,90,1,1,0,0,1,1,0,0,32,0,0,1,0.5,0.5,0.5,1,0,10,15,66.7,0,9,0,2,0,Match Report
+1,19,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,FW,90,0,0,0,0,3,0,0,0,43,2,0,0,0.1,0.1,0,2,0,17,25,68,4,28,3,2,0,Match Report
+1,19,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,FW,90,0,0,0,0,3,0,0,0,33,1,0,1,0.2,0.2,0.4,2,0,17,21,81,4,16,2,3,0,Match Report
+1,19,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,FW,90,1,0,0,0,4,2,0,0,30,1,0,2,0.5,0.5,0,2,0,9,17,52.9,1,15,1,2,0,Match Report
+1,19,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,FW,90,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,19,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,0,,53,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,19,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,FW,90,0,0,0,0,3,0,0,0,21,0,0,2,0.3,0.3,0,1,0,3,6,50,0,9,1,1,0,Match Report
+1,19,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,0,FW,18,0,0,0,0,0,0,0,0,11,1,0,1,0,0,0,0,0,3,4,75,0,5,0,3,2,Match Report
+1,19,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,FW,90,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.2,1,0,16,21,76.2,1,22,0,1,0,Match Report
+1,19,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,FW,90,0,2,0,0,2,0,0,0,28,0,1,0,0.3,0.3,1.1,3,2,10,16,62.5,1,16,1,2,2,Match Report
+1,19,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,FW,90,0,0,0,0,4,1,0,0,23,2,0,2,0.6,0.6,0,0,0,8,8,100,0,12,0,0,0,Match Report
+1,19,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,FW,90,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0,1,0,6,11,54.5,2,14,0,1,1,Match Report
+1,19,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,FW,86,0,0,0,0,3,1,0,0,27,0,0,1,0.2,0.2,0.1,2,1,8,10,80,3,26,2,4,1,Match Report
+1,19,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,FW,87,0,0,0,0,1,1,0,0,20,0,0,0,0,0,0.1,1,1,7,11,63.6,1,14,3,1,0,Match Report
+1,19,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,FW,74,0,0,0,0,1,0,0,0,14,0,0,1,0.5,0.5,0,0,0,7,8,87.5,2,10,0,0,0,Match Report
+1,19,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,FW,90,1,0,1,1,2,0,0,0,30,2,0,0,0.9,0.1,0,2,0,8,15,53.3,2,10,0,1,0,Match Report
+1,19,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,0,FW,24,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,3,4,75,0,4,0,2,0,Match Report
+1,19,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,FW,67,1,0,0,0,3,2,0,0,13,0,0,1,0.3,0.3,0,0,0,2,7,28.6,0,5,0,0,0,Match Report
+1,19,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,FW,74,1,0,1,1,3,0,0,0,20,1,0,0,1.1,0.3,0,4,0,8,10,80,2,13,3,1,0,Match Report
+1,19,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,FW,90,1,0,0,0,1,1,0,0,31,1,0,0,0.4,0.4,0,1,0,11,16,68.8,5,20,1,5,3,Match Report
+1,19,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,0,FW,17,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,3,4,75,2,5,1,1,1,Match Report
+1,19,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,FW,90,0,0,0,0,0,0,0,0,22,0,0,1,0,0,0,0,0,4,11,36.4,2,10,2,2,1,Match Report
+1,19,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,FW,65,1,0,1,1,0,0,0,0,14,0,1,2,0.8,0,0,0,0,2,5,40,0,6,1,0,0,Match Report
+1,20,2024-08-17,Sat,Premier League,Matchweek 1,Home,L 1–2,West Ham,Aston Villa,1,"LM,WB,RM",90,0,0,0,0,2,0,0,0,46,1,0,2,0.1,0.1,0.5,4,0,24,36,66.7,2,31,5,6,3,Match Report
+1,20,2024-08-24,Sat,Premier League,Matchweek 2,Away,W 2–0,West Ham,Crystal Palace,1,LM,88,0,0,0,0,2,0,0,0,29,2,0,1,0.1,0.1,0,2,0,14,16,87.5,2,22,6,9,6,Match Report
+1,20,2024-08-28,Wed,EFL Cup,Second round,Home,W 1–0,West Ham,Bournemouth,0,,17,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,20,2024-08-31,Sat,Premier League,Matchweek 3,Home,L 1–3,West Ham,Manchester City,1,"LW,RW",90,0,0,0,0,3,0,0,0,36,2,0,1,0.1,0.1,0,2,0,19,24,79.2,1,21,5,4,2,Match Report
+1,20,2024-09-05,Thu,Africa Cup of Nations qualification,Group stage,Home,L 0–1,gh Ghana,ao Angola,1,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-09-09,Mon,Africa Cup of Nations qualification,Group stage,Neutral,D 1–1,gh Ghana,ne Niger,1,AM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-09-14,Sat,Premier League,Matchweek 4,Away,D 1–1,West Ham,Fulham,1,"RW,LW",90,0,0,0,0,2,0,0,0,37,1,1,1,0,0,0.3,4,0,22,24,91.7,2,24,5,9,5,Match Report
+1,20,2024-09-21,Sat,Premier League,Matchweek 5,Home,L 0–3,West Ham,Chelsea,1,"RW,LW",90,0,0,0,0,3,2,0,0,37,0,0,0,0.2,0.2,0,3,0,18,25,72,3,29,7,10,5,Match Report
+1,20,2024-09-25,Wed,EFL Cup,Third round,Away,L 1–5,West Ham,Liverpool,0,,13,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,20,2024-09-28,Sat,Premier League,Matchweek 6,Away,D 1–1,West Ham,Brentford,1,LM,45,0,0,0,0,3,1,0,0,27,0,0,1,0.1,0.1,0,1,0,15,19,78.9,3,21,3,2,1,Match Report
+1,20,2024-10-05,Sat,Premier League,Matchweek 7,Home,W 4–1,West Ham,Ipswich Town,1,"LM,RM",85,1,0,0,0,5,4,0,0,50,1,0,3,1.5,1.5,0,3,0,28,30,93.3,2,34,4,4,1,Match Report
+1,20,2024-10-10,Thu,Africa Cup of Nations qualification,Group stage,Home,D 0–0,gh Ghana,sd Sudan,0,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-10-15,Tue,Africa Cup of Nations qualification,Group stage,Neutral,L 0–2,gh Ghana,sd Sudan,0,AM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-10-19,Sat,Premier League,Matchweek 8,Away,L 1–4,West Ham,Tottenham,1,"LM,AM,RM",85,1,0,0,0,7,3,0,1,47,2,0,0,0.7,0.7,0,6,0,27,30,90,5,29,2,12,5,Match Report
+1,20,2024-11-15,Fri,Africa Cup of Nations qualification,Group stage,Away,D 1–1,gh Ghana,ao Angola,1,AM,84,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-11-18,Mon,Africa Cup of Nations qualification,Group stage,Home,L 1–2,gh Ghana,ne Niger,0,AM,90,0,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2024-12-03,Tue,Premier League,Matchweek 14,Away,L 1–3,West Ham,Leicester City,1,"LW,RW,RM",78,0,0,0,0,3,1,0,0,53,1,0,2,0.2,0.2,0.3,8,0,33,38,86.8,6,37,1,10,6,Match Report
+1,20,2024-12-09,Mon,Premier League,Matchweek 15,Home,W 2–1,West Ham,Wolves,1,"RW,LW",86,0,1,0,0,3,1,0,0,53,3,0,1,0.1,0.1,0,6,1,31,35,88.6,2,29,1,7,4,Match Report
+1,20,2024-12-16,Mon,Premier League,Matchweek 16,Away,D 1–1,West Ham,Bournemouth,1,LM,74,0,0,0,0,1,0,0,0,47,1,0,1,0.1,0.1,0.2,6,0,27,34,79.4,6,31,3,9,3,Match Report
+1,20,2024-12-21,Sat,Premier League,Matchweek 17,Home,D 1–1,West Ham,Brighton,1,"LM,RM",90,1,0,0,0,2,1,0,0,39,4,0,1,0.2,0.2,0,2,0,21,27,77.8,2,25,3,5,1,Match Report
+1,20,2024-12-26,Thu,Premier League,Matchweek 18,Away,W 1–0,West Ham,Southampton,1,"LM,RM",90,0,0,0,0,3,1,0,0,43,0,0,2,0.2,0.2,0.1,6,0,27,32,84.4,1,28,3,3,1,Match Report
+1,20,2024-12-29,Sun,Premier League,Matchweek 19,Home,L 0–5,West Ham,Liverpool,1,"RW,RM,LM",80,0,0,0,0,2,0,0,0,39,2,0,1,0.1,0.1,0.2,3,0,22,25,88,3,28,4,4,1,Match Report
+1,20,2025-01-04,Sat,Premier League,Matchweek 20,Away,L 1–4,West Ham,Manchester City,1,RW,71,0,0,0,0,5,0,0,0,28,0,1,0,0.2,0.2,0.2,3,0,19,19,100,2,19,6,1,0,Match Report
+1,20,2025-01-10,Fri,FA Cup,Third round proper,Away,L 1–2,West Ham,Aston Villa,1,AM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2025-01-14,Tue,Premier League,Matchweek 21,Home,W 3–2,West Ham,Fulham,1,RW,62,0,0,0,0,0,0,0,0,28,1,0,1,0,0,0,0,0,16,18,88.9,1,16,0,5,3,Match Report
+1,20,2025-01-18,Sat,Premier League,Matchweek 22,Home,L 0–2,West Ham,Crystal Palace,1,"FW,RM",90,0,0,0,0,1,0,0,0,39,1,0,0,0.1,0.1,0,4,0,24,28,85.7,1,26,1,9,4,Match Report
+1,20,2025-01-26,Sun,Premier League,Matchweek 23,Away,D 1–1,West Ham,Aston Villa,1,AM,89,0,0,0,0,1,0,0,0,58,3,0,3,0.1,0.1,0.1,5,1,29,31,93.5,3,32,2,14,6,Match Report
+1,20,2025-02-03,Mon,Premier League,Matchweek 24,Away,L 1–2,West Ham,Chelsea,1,AM,90,0,0,0,0,4,1,0,0,40,1,1,0,0.8,0.8,0,2,0,14,20,70,1,23,0,9,2,Match Report
+1,20,2025-02-15,Sat,Premier League,Matchweek 25,Home,L 0–1,West Ham,Brentford,1,"AM,LW",90,0,0,0,0,3,0,0,0,52,3,0,0,0.3,0.3,0,3,0,29,37,78.4,7,39,4,6,3,Match Report
+1,20,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 1–0,West Ham,Arsenal,1,"FW,RM",90,0,0,0,0,0,0,0,0,39,0,1,0,0,0,0.1,3,0,25,27,92.6,4,22,6,6,2,Match Report
+1,20,2025-02-27,Thu,Premier League,Matchweek 27,Home,W 2–0,West Ham,Leicester City,1,FW,72,0,0,0,0,1,1,0,0,35,1,0,0,0.6,0.6,0,2,1,24,26,92.3,1,21,0,5,1,Match Report
+1,20,2025-03-10,Mon,Premier League,Matchweek 28,Home,L 0–1,West Ham,Newcastle Utd,1,"FW,LM",90,0,0,0,0,3,1,0,0,44,0,0,0,0.1,0.1,0.1,1,0,22,32,68.8,0,29,5,5,2,Match Report
+1,20,2025-03-15,Sat,Premier League,Matchweek 29,Away,D 1–1,West Ham,Everton,1,FW,89,0,0,0,0,0,0,0,0,37,1,0,0,0,0,0,2,0,24,29,82.8,4,30,3,5,3,Match Report
+1,20,2025-03-21,Fri,WCQ,First round,Home,W 5–0,gh Ghana,td Chad,1,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2025-03-24,Mon,WCQ,First round,Neutral,W 3–0,gh Ghana,mg Madagascar,1,AM,80,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,20,2025-04-05,Sat,Premier League,Matchweek 31,Home,D 2–2,West Ham,Bournemouth,1,"RW,LW,FW",83,0,1,0,0,0,0,1,0,35,0,0,0,0,0,0.1,4,2,18,20,90,0,27,2,10,3,Match Report
+1,20,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 1–2,West Ham,Liverpool,1,"FW,LM",90,0,0,0,0,4,2,0,0,42,2,0,0,0.2,0.2,0,4,0,20,26,76.9,3,24,2,6,2,Match Report
+1,20,2025-04-19,Sat,Premier League,Matchweek 33,Home,D 1–1,West Ham,Southampton,1,AM,74,0,0,0,0,2,0,0,0,40,0,0,0,0.2,0.2,0.1,5,1,28,34,82.4,4,22,4,2,2,Match Report
+1,20,2025-04-26,Sat,Premier League,Matchweek 34,Away,L 2–3,West Ham,Brighton,1,"LW,FW",90,1,0,0,0,2,1,0,0,41,0,0,2,0.3,0.3,0,1,0,20,24,83.3,3,29,1,11,7,Match Report
+1,20,2025-05-04,Sun,Premier League,Matchweek 35,Home,D 1–1,West Ham,Tottenham,1,AM,90,0,0,0,0,1,0,1,0,35,2,0,1,0,0,0.1,6,1,19,23,82.6,2,22,5,6,3,Match Report
+1,20,2025-05-11,Sun,Premier League,Matchweek 36,Away,W 2–0,West Ham,Manchester Utd,1,FW,72,0,1,0,0,3,0,0,0,40,0,0,0,0.1,0.1,0.6,4,2,23,29,79.3,1,32,2,5,2,Match Report
+1,20,2025-05-18,Sun,Premier League,Matchweek 37,Home,L 1–2,West Ham,Nott'ham Forest,1,"FW,LM",78,0,0,0,0,3,0,0,0,45,2,0,0,0.2,0.2,0,1,0,24,28,85.7,1,31,2,7,2,Match Report
+1,20,2025-05-25,Sun,Premier League,Matchweek 38,Away,W 3–1,West Ham,Ipswich Town,0,FW,19,1,0,0,0,1,1,0,0,13,1,0,0,0.1,0.1,0,1,1,9,9,100,1,9,1,2,1,Match Report
+1,21,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,0,CM,12,0,0,0,0,0,0,0,0,19,1,0,3,0,0,0,2,0,7,9,77.8,1,7,0,2,0,Match Report
+1,21,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,RM,66,0,1,0,0,0,0,0,0,29,0,0,0,0,0,0.2,6,2,20,23,87,3,15,4,4,2,Match Report
+1,21,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,"RM,FW",90,0,0,0,0,2,0,0,0,57,0,2,2,0.1,0.1,0.1,7,0,31,41,75.6,3,25,8,4,1,Match Report
+1,21,2024-09-05,Thu,UEFA Nations League,League C,Away,W 3–1,se Sweden,az Azerbaijan,0,RW,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-09-08,Sun,UEFA Nations League,League C,Home,W 3–0,se Sweden,ee Estonia,0,AM,90,0,0,0,0,6,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,"RM,DM",90,0,0,0,0,3,1,1,0,42,3,1,0,0.1,0.1,0,5,0,17,29,58.6,4,29,4,3,1,Match Report
+1,21,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,0,,17,0,1,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,"RM,RW",90,0,0,0,0,4,1,0,0,46,0,1,0,0.4,0.4,0.2,5,0,22,33,66.7,7,23,2,3,1,Match Report
+1,21,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,0,"RM,FW",45,0,0,0,0,1,0,0,0,23,0,1,0,0,0,0.1,2,0,9,15,60,1,12,3,2,1,Match Report
+1,21,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,RM,90,1,0,0,0,2,1,0,0,58,0,1,3,0.4,0.4,1.3,11,0,35,40,87.5,11,31,4,3,0,Match Report
+1,21,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,0,FW,26,0,0,0,0,1,0,0,0,18,2,0,0,0,0,0,3,0,9,12,75,4,12,0,0,0,Match Report
+1,21,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,"RM,LM,LW",90,0,0,0,0,1,0,1,0,51,1,0,2,0,0,0.1,2,0,20,32,62.5,7,36,7,7,2,Match Report
+1,21,2024-10-11,Fri,UEFA Nations League,League C,Away,D 2–2,se Sweden,sk Slovakia,0,FW,90,0,0,0,0,7,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-10-14,Mon,UEFA Nations League,League C,Away,W 3–0,se Sweden,ee Estonia,0,FW,90,0,1,0,0,5,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,RM,90,1,0,0,0,4,1,0,0,52,3,0,0,0.2,0.2,0.1,9,0,29,36,80.6,6,42,4,6,2,Match Report
+1,21,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,RM,18,0,0,0,0,1,1,0,0,11,0,0,1,0,0,0.2,1,0,5,6,83.3,2,9,1,1,0,Match Report
+1,21,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,RM,61,0,0,0,0,1,1,1,0,28,0,1,1,0.1,0.1,0,1,0,17,24,70.8,2,18,4,1,1,Match Report
+1,21,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,CM,90,0,2,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,"RM,LW",90,0,1,0,0,0,0,0,0,36,3,1,3,0,0,0.7,3,1,12,23,52.2,5,14,3,3,1,Match Report
+1,21,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,0,RW,45,0,0,0,0,2,0,1,0,27,1,0,0,0.1,0.1,0,2,1,10,14,71.4,3,15,1,6,2,Match Report
+1,21,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,"RM,RW",90,0,0,0,0,0,0,0,0,55,1,0,0,0,0,0.1,5,0,30,47,63.8,3,36,3,2,1,Match Report
+1,21,2024-11-16,Sat,UEFA Nations League,League C,Home,W 2–1,se Sweden,sk Slovakia,1,AM,90,0,0,0,0,4,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-11-19,Tue,UEFA Nations League,League C,Home,W 6–0,se Sweden,az Azerbaijan,0,AM,90,2,1,0,0,6,4,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,"RW,RM",90,0,1,0,0,1,1,0,0,29,1,0,0,0.1,0.1,0.8,5,2,17,24,70.8,4,24,4,4,4,Match Report
+1,21,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,"RM,RW",90,0,1,0,0,4,1,1,0,50,0,1,1,0.2,0.2,0.4,6,1,24,35,68.6,3,39,9,3,1,Match Report
+1,21,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,0,"FW,RM,LW",23,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,6,6,100,1,9,1,3,1,Match Report
+1,21,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,"RW,CM,RM",90,0,0,0,0,3,2,0,0,77,2,0,0,0.1,0.1,0,6,0,36,53,67.9,6,57,14,3,0,Match Report
+1,21,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,RM,78,1,0,0,0,1,1,0,0,26,1,1,0,0.1,0.1,0,1,0,10,16,62.5,2,18,5,2,1,Match Report
+1,21,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,0,RW,45,1,0,0,0,1,1,0,0,29,0,0,0,0.1,0.1,0.3,4,1,15,20,75,4,25,1,2,0,Match Report
+1,21,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,"RW,AM",90,1,0,0,0,3,1,0,0,50,1,0,1,0.4,0.4,0.1,7,0,29,37,78.4,4,34,4,7,3,Match Report
+1,21,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,AM,90,1,0,0,0,2,2,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,21,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,"RW,AM",90,1,0,0,0,3,1,0,0,49,2,0,2,0.5,0.5,0,5,1,24,32,75,2,35,7,10,4,Match Report
+1,21,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,AM,90,0,0,0,0,1,0,0,0,68,0,1,2,0,0,0.2,6,0,34,49,69.4,8,45,5,7,2,Match Report
+1,21,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,"AM,RW",90,0,1,0,0,1,0,0,0,44,2,1,1,0.4,0.4,0.7,7,1,18,27,66.7,3,28,5,7,1,Match Report
+1,21,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,0,"AM,RM",90,0,0,0,0,1,0,0,0,50,5,0,0,0,0,0.3,5,0,28,38,73.7,7,38,5,1,1,Match Report
+1,21,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,FW,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,21,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,0,,30,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,21,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,"RM,RW",90,0,0,0,0,1,1,0,0,37,3,0,1,0.3,0.3,0.2,7,2,20,25,80,5,17,5,2,1,Match Report
+1,21,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,"AM,RW",90,1,0,0,0,1,1,0,0,54,1,0,0,0.1,0.1,0.4,7,0,38,45,84.4,7,35,3,4,1,Match Report
+1,21,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,RW,90,0,0,0,0,0,0,0,0,52,2,0,0,0,0,0.1,2,0,33,40,82.5,4,35,4,4,2,Match Report
+1,21,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,RW,90,0,0,0,0,1,1,0,0,57,3,0,1,0.1,0.1,0.1,1,0,32,43,74.4,4,42,3,5,0,Match Report
+1,21,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,0,"RM,RW",45,0,1,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.3,3,1,15,20,75,0,22,2,2,0,Match Report
+1,21,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,"RW,AM",90,0,0,0,0,4,0,0,0,41,1,0,2,0.3,0.3,0.1,3,0,21,27,77.8,1,32,6,4,2,Match Report
+1,21,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,FW,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,21,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,AM,90,0,1,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,21,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,"RW,RM",90,0,0,0,0,4,1,0,0,47,1,0,0,0.3,0.3,0.2,3,0,25,32,78.1,6,36,3,7,1,Match Report
+1,21,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,"RM,RW",90,1,0,0,0,1,1,0,0,49,4,1,0,0,0,0.2,3,0,30,37,81.1,5,33,2,1,0,Match Report
+1,21,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,0,"RM,FW",24,0,0,0,0,0,0,0,0,10,0,0,1,0,0,0,0,0,3,3,100,1,7,0,2,1,Match Report
+1,21,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,0,RM,16,0,0,0,0,0,0,0,0,11,1,1,0,0,0,0,0,0,4,6,66.7,0,8,0,0,0,Match Report
+1,21,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,0,"RM,FW,LW",46,0,0,0,0,1,0,0,0,19,1,1,0,0.1,0.1,0,3,0,7,11,63.6,0,13,2,1,1,Match Report
+1,21,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,RM,66,0,0,0,0,2,1,0,0,35,1,0,1,0.1,0.1,0,3,0,24,27,88.9,3,21,2,2,1,Match Report
+1,21,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,0,AM,45,0,0,0,0,1,0,0,0,15,2,1,1,0,0,0,0,0,5,8,62.5,1,6,1,2,1,Match Report
+1,21,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,0,RM,26,0,0,0,0,2,0,0,0,9,0,0,1,0.2,0.2,0,1,0,3,5,60,0,6,1,1,1,Match Report
+1,21,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,RM,90,0,0,0,0,0,0,0,0,39,2,0,7,0,0,0.1,2,0,12,19,63.2,1,20,2,6,1,Match Report
+1,21,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,"AM,RW",90,0,1,0,0,0,0,0,0,26,2,2,0,0,0,0,1,1,10,17,58.8,2,17,1,2,1,Match Report
+1,21,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,FW,18,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,1,0,2,2,100,1,2,0,0,0,Match Report
+1,22,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,RW,77,0,0,0,0,2,1,0,0,43,6,0,0,0.1,0.1,0.2,1,0,21,29,72.4,1,19,3,1,0,Match Report
+1,22,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,RW,90,0,0,0,0,1,0,0,0,29,2,0,0,0.2,0.2,0,0,0,15,22,68.2,1,20,3,3,0,Match Report
+1,22,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,0,RW,45,0,0,0,0,2,1,0,0,27,2,0,1,0.3,0.3,0,2,0,15,23,65.2,3,16,6,2,2,Match Report
+1,22,2024-09-06,Fri,UEFA Nations League,League B,Home,D 0–0,wls Wales,tr Türkiye,1,FW,90,0,0,0,0,2,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-09-09,Mon,UEFA Nations League,League B,Away,W 2–1,wls Wales,me Montenegro,0,,47,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,RW,67,0,0,0,0,4,1,0,0,23,0,0,2,0.2,0.2,0,1,0,14,15,93.3,1,19,5,2,1,Match Report
+1,22,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,0,,73,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,RW,69,1,0,0,0,6,2,0,0,32,0,0,0,0.5,0.5,0.1,2,0,15,21,71.4,3,24,5,0,0,Match Report
+1,22,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,"RM,RW",45,1,0,0,0,2,1,0,0,23,0,0,0,0.2,0.2,0,1,0,15,19,78.9,2,15,1,2,1,Match Report
+1,22,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,RW,75,1,0,0,0,3,1,1,0,40,1,1,3,1,1,0.1,4,0,23,29,79.3,7,19,3,0,0,Match Report
+1,22,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,0,RW,26,1,0,0,0,3,1,0,0,15,1,0,0,0.3,0.3,0,1,0,7,10,70,1,10,0,0,0,Match Report
+1,22,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,RW,90,1,0,0,0,3,1,0,0,33,3,0,0,0.6,0.6,0.1,2,0,17,22,77.3,5,21,1,1,1,Match Report
+1,22,2024-10-11,Fri,UEFA Nations League,League B,Away,D 2–2,wls Wales,is Iceland,1,AM,45,1,0,0,0,2,1,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,RW,90,0,0,0,0,5,1,0,0,30,1,0,0,0.9,0.9,0,3,0,15,18,83.3,2,20,1,4,0,Match Report
+1,22,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,RW,45,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0,0,0,5,10,50,0,13,0,0,0,Match Report
+1,22,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,"RW,RM",90,0,0,0,0,3,0,1,0,28,3,0,0,0.3,0.3,0.1,2,0,11,22,50,3,16,2,1,1,Match Report
+1,22,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,FW,67,0,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,RW,90,1,0,0,0,1,1,0,0,36,1,1,4,0.6,0.6,0,0,0,12,22,54.5,1,14,1,3,1,Match Report
+1,22,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,RW,45,0,1,0,0,0,0,0,0,14,0,0,2,0,0,0.8,1,1,9,12,75,1,6,0,0,0,Match Report
+1,22,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,RW,83,0,0,0,0,3,0,0,0,30,0,0,1,0.6,0.6,0,1,0,16,25,64,1,22,1,0,0,Match Report
+1,22,2024-11-16,Sat,UEFA Nations League,League B,Away,D 0–0,wls Wales,tr Türkiye,1,AM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-11-19,Tue,UEFA Nations League,League B,Home,W 4–1,wls Wales,is Iceland,1,AM,89,1,1,0,0,4,2,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,0,"LW,RW",28,1,0,0,0,2,1,0,0,10,1,0,0,1.1,1.1,0,1,0,3,3,100,0,6,0,1,1,Match Report
+1,22,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,RW,68,1,0,0,0,4,2,0,0,25,1,0,1,0.6,0.6,0,2,0,9,17,52.9,2,17,1,0,0,Match Report
+1,22,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,RW,90,1,0,0,0,1,1,0,0,34,2,0,0,0.3,0.3,0,0,0,19,31,61.3,1,20,2,0,0,Match Report
+1,22,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,"LW,RM,FW",90,0,0,0,0,0,0,0,0,43,1,0,0,0,0,0,3,0,28,39,71.8,4,34,1,2,2,Match Report
+1,22,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,RW,52,0,1,0,0,0,0,0,0,12,1,0,2,0,0,0.1,3,3,4,7,57.1,1,7,2,2,2,Match Report
+1,22,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,"RW,LW",59,0,0,0,0,2,0,0,0,26,0,0,0,0.3,0.3,0,0,0,13,18,72.2,2,20,2,3,1,Match Report
+1,22,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,0,"LW,RW",45,0,0,0,0,1,0,1,0,19,2,1,0,0.4,0.4,0,0,0,11,15,73.3,0,9,2,0,0,Match Report
+1,22,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,0,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,0,RW,33,0,1,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.5,1,1,13,17,76.5,1,10,0,0,0,Match Report
+1,22,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,RW,90,0,0,0,0,3,3,0,0,52,0,0,0,0.4,0.4,0,2,0,34,42,81,9,37,2,4,2,Match Report
+1,22,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,RW,63,1,0,0,0,1,1,0,0,17,2,1,1,0.1,0.1,0,2,1,5,12,41.7,2,9,3,0,0,Match Report
+1,22,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,RW,90,0,0,0,0,2,0,0,0,31,3,0,1,0.2,0.2,0.1,5,1,17,22,77.3,3,19,3,2,1,Match Report
+1,22,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,0,,76,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,FW,120,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,22,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,0,RW,45,0,0,0,0,1,0,0,0,18,1,0,0,0,0,0,1,0,10,13,76.9,1,10,0,0,0,Match Report
+1,22,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,0,RW,27,0,0,0,0,0,0,0,0,10,0,0,1,0,0,0,2,0,4,5,80,1,5,2,0,0,Match Report
+1,22,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,RW,63,2,0,0,0,3,2,1,0,27,1,0,0,1.1,1.1,0,0,0,16,21,76.2,1,19,0,2,1,Match Report
+1,22,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,RW,90,0,0,0,0,1,0,0,0,29,1,0,2,0.1,0.1,0.3,3,0,18,22,81.8,3,23,3,2,1,Match Report
+1,22,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,RW,90,0,0,0,0,1,0,0,0,44,3,0,0,0,0,0,1,0,27,35,77.1,5,31,1,6,2,Match Report
+1,22,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,RW,45,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,1,0,16,19,84.2,2,15,1,2,0,Match Report
+1,22,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,0,RW,14,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,1,Match Report
+1,22,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,RW,45,0,0,0,0,0,0,0,0,17,1,0,1,0,0,0,0,0,6,12,50,0,11,0,2,0,Match Report
+1,22,2025-03-22,Sat,WCQ,First round,Home,W 3–1,wls Wales,kz Kazakhstan,1,AM,62,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2025-03-25,Tue,WCQ,First round,Away,D 1–1,wls Wales,mk N. Macedonia,1,RM,84,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,0,RW,27,0,0,0,0,0,0,1,0,12,2,0,1,0,0,0.4,2,0,5,7,71.4,2,5,1,0,0,Match Report
+1,22,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,RW,90,2,0,0,0,3,2,0,0,33,0,0,1,0.6,0.6,0.1,1,1,17,27,63,3,27,1,3,2,Match Report
+1,22,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,RW,90,0,0,0,0,1,0,0,0,26,0,0,0,0.2,0.2,0,1,0,13,19,68.4,2,20,2,3,2,Match Report
+1,22,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,RW,90,0,1,0,0,1,0,0,0,39,2,0,1,0.1,0.1,0.2,0,0,28,35,80,4,34,2,2,1,Match Report
+1,22,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,RW,84,0,0,0,0,0,0,1,0,22,1,1,1,0,0,0.4,3,0,11,16,68.8,1,11,2,0,0,Match Report
+1,22,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,0,RM,24,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,1,0,5,8,62.5,2,9,1,1,0,Match Report
+1,22,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,RW,90,0,0,0,0,0,0,0,0,18,0,0,3,0,0,0,0,0,5,12,41.7,2,8,0,2,0,Match Report
+1,22,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,RW,90,1,0,0,0,1,1,0,0,13,1,0,0,0.6,0.6,0,1,1,6,10,60,1,7,3,0,0,Match Report
+1,22,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,RW,67,0,0,0,0,0,0,1,0,19,1,0,1,0,0,0,0,0,4,11,36.4,1,7,0,1,0,Match Report
+1,22,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,0,AM,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,3,33.3,0,3,1,0,0,Match Report
+1,22,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,RW,78,1,0,0,0,1,1,0,0,24,0,2,2,0.8,0.8,0,0,0,8,16,50,0,9,1,0,0,Match Report
+1,22,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,RW,90,0,0,0,0,1,0,0,0,25,0,0,0,0.6,0.6,0,0,0,10,18,55.6,1,14,2,0,0,Match Report
+1,22,2025-06-06,Fri,WCQ,First round,Home,W 3–0,wls Wales,li Liechtenstein,1,AM,64,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,22,2025-06-09,Mon,WCQ,First round,Away,L 3–4,wls Wales,be Belgium,1,FW,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,23,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,RB,89,1,0,0,0,1,1,0,0,65,0,1,0,0.1,0.1,0.2,5,0,49,57,86,6,29,3,2,0,Match Report
+1,23,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,RB,90,0,0,0,0,1,0,0,0,94,3,1,4,0,0,0,3,0,61,79,77.2,6,57,1,1,0,Match Report
+1,23,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,RB,90,0,0,0,0,6,1,0,0,80,2,3,1,0.2,0.2,0.1,5,0,43,63,68.3,6,42,0,2,1,Match Report
+1,23,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,RB,90,0,0,0,0,0,0,0,0,83,4,0,3,0,0,0.1,4,0,52,66,78.8,10,45,6,2,0,Match Report
+1,23,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,RB,87,0,0,0,0,2,0,0,0,64,4,4,1,0.1,0.1,0,2,0,36,51,70.6,9,41,3,2,0,Match Report
+1,23,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,RB,90,0,0,0,0,1,1,1,0,83,1,0,2,0.1,0.1,0.4,2,0,60,73,82.2,2,46,4,1,1,Match Report
+1,23,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,1,RB,90,0,0,0,0,2,0,0,0,111,0,4,3,0.1,0.1,0,6,1,78,98,79.6,6,74,3,5,5,Match Report
+1,23,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,RB,90,0,0,0,0,1,0,0,0,72,4,1,1,0,0,0.1,1,0,41,58,70.7,6,39,0,1,0,Match Report
+1,23,2024-10-12,Sat,UEFA Nations League,League A,Home,W 1–0,es Spain,dk Denmark,1,RB,90,0,0,0,0,2,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,23,2024-10-15,Tue,UEFA Nations League,League A,Home,W 3–0,es Spain,rs Serbia,1,RB,90,0,1,0,0,3,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,23,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,RB,90,0,0,0,0,4,1,0,0,80,2,2,1,0.1,0.1,0.1,5,0,50,69,72.5,6,49,4,0,0,Match Report
+1,23,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,RB,90,0,0,0,0,1,0,0,0,86,2,0,0,0,0,0,2,0,50,81,61.7,6,45,3,0,0,Match Report
+1,23,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,RB,90,0,0,0,0,2,0,1,0,67,1,1,1,0,0,0,2,0,35,51,68.6,4,24,2,0,0,Match Report
+1,23,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,1,RB,90,0,1,0,0,0,0,0,0,80,5,2,1,0,0,0.8,2,1,53,64,82.8,7,42,0,0,0,Match Report
+1,23,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,RB,90,0,1,0,0,0,0,0,0,93,2,2,1,0,0,0.2,9,2,63,86,73.3,5,55,7,3,1,Match Report
+1,23,2024-11-15,Fri,UEFA Nations League,League A,Away,W 2–1,es Spain,dk Denmark,1,RB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,23,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,RB,90,1,0,0,0,1,1,0,0,49,0,0,3,0.3,0.3,0,0,0,27,37,73,2,25,2,2,1,Match Report
+1,23,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,RB,90,0,0,0,0,6,2,0,0,99,6,1,2,0.3,0.3,0.1,6,1,56,75,74.7,4,59,4,1,0,Match Report
+1,23,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,RB,90,0,0,0,0,2,0,0,0,72,2,0,1,0.1,0.1,0,2,0,45,59,76.3,4,36,2,1,0,Match Report
+1,23,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,0,RB,29,0,0,0,0,1,1,0,0,25,0,1,1,0.1,0.1,0,0,0,11,17,64.7,0,11,0,0,0,Match Report
+1,23,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,RB,90,0,1,0,0,2,0,0,0,59,1,0,3,0.1,0.1,0.2,5,1,34,46,73.9,4,28,1,1,1,Match Report
+1,23,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,RB,90,0,0,0,0,1,1,0,0,77,0,1,3,0,0,0,0,0,46,64,71.9,4,51,2,3,2,Match Report
+1,23,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,0,RB,63,0,0,0,0,0,0,0,0,62,0,1,1,0,0,0,2,0,48,58,82.8,3,44,0,0,0,Match Report
+1,23,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,RB,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,23,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,RB,90,0,0,0,0,0,0,0,0,81,3,1,0,0,0,0.1,3,0,56,72,77.8,9,47,3,2,1,Match Report
+1,23,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,0,RB,10,0,0,0,0,0,0,0,0,14,0,0,1,0,0,0,2,0,8,13,61.5,2,7,0,0,0,Match Report
+1,23,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,RB,90,0,1,0,0,0,0,0,0,71,1,2,4,0,0,0.1,3,2,39,60,65,2,29,1,0,0,Match Report
+1,23,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,RB,90,0,1,0,0,2,0,0,0,67,5,0,3,0.1,0.1,0.3,5,1,39,55,70.9,2,33,2,0,0,Match Report
+1,23,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,RB,90,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,23,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,RB,120,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,23,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,RB,90,0,1,0,0,1,0,0,0,77,1,0,6,0.4,0.4,0.5,1,1,49,59,83.1,5,32,2,0,0,Match Report
+1,23,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,RB,90,0,1,0,0,5,2,0,0,102,2,1,0,0.2,0.2,0.5,8,1,68,94,72.3,7,63,5,2,2,Match Report
+1,23,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,RB,90,0,0,0,0,3,1,0,0,136,3,1,2,0.2,0.2,0.2,7,1,106,124,85.5,14,94,4,1,1,Match Report
+1,23,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,RB,90,0,0,0,0,1,0,0,0,72,6,3,2,0,0,0,0,0,34,51,66.7,3,41,1,1,0,Match Report
+1,23,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,0,,34,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,23,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,RB,90,0,0,0,0,1,1,1,0,,,2,,,,,,,,,,,,,,,Match Report
+1,23,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,RB,90,0,0,0,0,0,0,0,0,73,4,3,3,0,0,0.1,4,0,44,60,73.3,5,34,0,3,1,Match Report
+1,23,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,0,RB,26,0,0,0,0,0,0,0,0,19,1,0,1,0,0,0,0,0,11,14,78.6,1,10,0,0,0,Match Report
+1,23,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,RB,90,0,0,0,0,0,0,0,0,76,2,3,0,0,0,0.3,6,0,57,67,85.1,1,48,1,1,0,Match Report
+1,23,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,0,"RB,LB",19,0,0,0,0,0,0,0,0,31,0,0,1,0,0,0.1,3,0,21,27,77.8,1,21,0,2,1,Match Report
+1,23,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,RB,86,0,0,0,0,0,0,0,0,79,2,1,1,0,0,0.1,3,0,45,69,65.2,0,38,3,2,0,Match Report
+1,23,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,RB,90,0,0,0,0,1,0,0,0,71,0,1,3,0,0,0,1,0,43,59,72.9,5,41,1,2,1,Match Report
+1,23,2025-03-20,Thu,UEFA Nations League,Quarter-finals,Away,D 2–2,es Spain,nl Netherlands,1,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,23,2025-03-23,Sun,UEFA Nations League,Quarter-finals,Home,D 3 (5)–3 (4),es Spain,nl Netherlands,0,,26,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,23,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,0,RB,3,0,0,0,0,0,0,1,0,14,0,0,0,0,0,0,0,0,9,13,69.2,1,6,0,0,0,Match Report
+1,23,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,RB,90,0,0,0,0,1,0,1,0,80,3,1,3,0,0,0.3,4,0,49,67,73.1,7,51,1,2,1,Match Report
+1,23,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,RB,90,1,0,0,0,1,1,0,0,84,2,1,2,0.1,0.1,0.1,4,0,47,71,66.2,6,35,2,0,0,Match Report
+1,23,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,RB,90,0,0,0,0,0,0,0,0,77,2,1,5,0,0,0.2,4,0,37,58,63.8,0,27,0,0,0,Match Report
+1,23,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,RB,90,0,1,0,0,1,0,0,0,107,2,1,2,0,0,0.4,13,1,72,96,75,11,61,5,6,2,Match Report
+1,23,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,RB,90,0,1,0,0,0,0,0,0,44,0,2,1,0,0,0.5,6,2,20,35,57.1,5,22,0,0,0,Match Report
+1,23,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,RB,90,1,0,0,0,2,2,0,0,60,1,2,4,0.1,0.1,0.1,2,0,29,46,63,1,20,1,1,1,Match Report
+1,23,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,RB,57,0,0,0,0,2,0,0,0,49,0,0,0,0.1,0.1,0.4,3,0,31,42,73.8,5,28,1,0,0,Match Report
+1,23,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,RB,90,0,0,0,0,0,0,0,0,54,2,0,1,0,0,0,1,0,20,40,50,0,16,0,1,0,Match Report
+1,23,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,RB,90,0,0,0,0,0,0,1,0,57,3,2,0,0,0,0.7,1,0,30,48,62.5,2,27,1,1,1,Match Report
+1,23,2025-06-05,Thu,UEFA Nations League,Semi-finals,Neutral,W 5–4,es Spain,fr France,1,RB,90,0,1,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,23,2025-06-08,Sun,UEFA Nations League,Final,Neutral,D 2 (3)–2 (5),es Spain,pt Portugal,0,,27,0,0,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,24,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,0,RB,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,9,9,100,2,7,0,2,1,Match Report
+1,24,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,0,LB,18,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,7,8,87.5,0,7,0,0,0,Match Report
+1,24,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,0,,45,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,24,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,0,LB,45,0,0,0,0,0,0,1,0,25,1,2,0,0,0,0,0,0,17,20,85,2,18,4,3,0,Match Report
+1,24,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,0,LB,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,100,0,1,0,0,0,Match Report
+1,24,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,"LB,RB",76,0,1,0,0,1,0,0,0,80,3,1,0,0.1,0.1,0.5,5,3,64,67,95.5,9,52,5,4,2,Match Report
+1,24,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,LB,89,0,1,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,24,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,LB,90,0,0,0,0,0,0,0,0,84,5,1,4,0,0,0,0,0,65,70,92.9,4,52,5,4,2,Match Report
+1,24,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,"RB,LB",89,0,0,0,0,1,0,2,1,85,3,0,0,0,0,0.3,2,0,65,77,84.4,6,47,0,2,2,Match Report
+1,24,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,"CB,LB",90,0,0,0,0,0,0,0,0,74,3,2,3,0,0,0,0,0,46,61,75.4,4,40,0,2,0,Match Report
+1,24,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,LB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,24,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,0,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,24,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,LB,90,0,0,0,0,0,0,0,0,83,3,2,2,0,0,0,0,0,54,64,84.4,1,31,3,3,0,Match Report
+1,24,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,"LB,WB",90,0,0,0,0,1,0,0,0,79,3,0,2,0,0,0,2,0,54,67,80.6,5,46,3,11,9,Match Report
+1,24,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,LB,90,0,0,0,0,1,0,0,0,63,4,1,3,0,0,0.2,3,0,38,45,84.4,2,32,1,3,3,Match Report
+1,24,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,LB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,24,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,LB,90,0,0,0,0,1,1,0,0,,,4,,,,,,,,,,,,,,,Match Report
+1,24,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,LB,90,0,0,0,0,1,1,0,0,83,2,0,3,0,0,0.1,4,0,59,67,88.1,10,60,9,5,3,Match Report
+1,24,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,"RB,LB",90,1,0,0,0,1,1,0,0,65,1,1,0,0.1,0.1,0,0,0,50,58,86.2,5,39,1,2,2,Match Report
+1,24,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,0,LB,24,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0.3,1,0,15,18,83.3,1,20,0,3,0,Match Report
+1,24,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,"RB,LB",90,0,0,0,0,0,0,0,0,85,3,1,2,0,0,0,1,0,55,65,84.6,3,55,5,5,2,Match Report
+1,24,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,"LB,RB",90,0,0,0,0,0,0,0,0,78,1,2,1,0,0,0,1,0,56,62,90.3,6,46,4,0,0,Match Report
+1,24,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,LB,90,0,0,0,0,0,0,0,0,77,2,1,1,0,0,0.2,4,0,53,64,82.8,8,54,6,2,0,Match Report
+1,24,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,RB,90,0,0,0,0,0,0,0,0,64,3,1,0,0,0,0,2,0,41,47,87.2,5,33,1,5,2,Match Report
+1,24,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,"RB,CB",90,0,0,0,0,1,0,1,0,58,1,1,2,0.1,0.1,0,1,0,38,44,86.4,5,28,1,4,2,Match Report
+1,24,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,LB,90,0,1,0,0,1,1,0,0,76,1,2,1,0.1,0.1,0.2,2,1,62,65,95.4,12,48,1,4,1,Match Report
+1,24,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,0,LB,12,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0.2,1,0,5,5,100,0,3,0,0,0,Match Report
+1,24,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,LB,90,0,0,0,0,0,0,0,0,85,3,1,1,0,0,0,1,0,62,73,84.9,9,50,7,6,3,Match Report
+1,24,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,LB,90,0,0,0,0,1,0,0,0,61,0,0,0,0.1,0.1,0,1,0,47,56,83.9,6,30,7,3,2,Match Report
+1,24,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,1,RB,90,0,0,0,0,1,0,0,0,48,1,0,0,0,0,0,1,1,25,38,65.8,4,22,1,3,0,Match Report
+1,24,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,LB,90,0,0,0,0,0,0,0,0,82,1,1,2,0,0,0.1,2,0,48,62,77.4,2,32,3,0,0,Match Report
+1,24,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,LB,90,0,0,0,0,0,0,0,0,61,5,2,3,0,0,0,1,0,40,50,80,3,29,2,3,3,Match Report
+1,24,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,RB,90,0,0,0,0,0,0,0,0,47,2,1,1,0,0,0,0,0,27,30,90,2,21,0,3,1,Match Report
+1,24,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,0,LB,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Match Report
+1,24,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,0,LW,8,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,2,100,0,3,1,1,0,Match Report
+1,28,2024-08-12,Mon,Championship,Matchweek 1,Away,W 4–1,Burnley,Luton Town,1,"AM,LW",89,1,0,0,0,3,1,0,0,35,1,0,2,0.6,0.6,0.2,3,1,19,20,95,3,19,3,4,0,Match Report
+1,28,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,LW,66,0,0,0,0,1,0,0,0,53,3,0,0,0,0,0,1,0,32,39,82.1,5,39,7,6,2,Match Report
+1,28,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,"RW,LW",73,0,0,0,0,4,0,0,0,38,2,0,0,0.3,0.3,0,2,0,20,28,71.4,3,26,2,3,1,Match Report
+1,28,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,0,RW,23,0,0,0,0,1,0,0,0,14,0,0,1,0,0,0,1,0,7,11,63.6,2,11,4,1,0,Match Report
+1,28,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,FW,17,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,28,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,LW,3,0,0,0,0,1,0,0,0,2,0,0,0,0.2,0.2,0,0,0,1,1,100,1,2,1,0,0,Match Report
+1,28,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,0,LW,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,1,100,0,2,0,3,2,Match Report
+1,28,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,0,LW,17,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,5,5,100,0,10,1,1,0,Match Report
+1,28,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,LW,66,0,0,0,0,2,1,0,0,34,0,1,0,0.2,0.2,0,1,0,19,26,73.1,1,25,4,5,2,Match Report
+1,28,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,0,"FW,LW",45,0,0,0,0,2,1,0,0,28,1,1,0,0.2,0.2,0.1,1,0,13,16,81.3,1,15,2,2,0,Match Report
+1,28,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,"RW,LW",90,0,0,0,0,1,0,0,0,42,0,0,1,0,0,0,1,0,22,30,73.3,2,32,6,2,1,Match Report
+1,28,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,RW,76,2,0,0,0,3,2,0,0,44,2,1,1,1.2,1.2,0,1,0,27,33,81.8,2,30,5,3,3,Match Report
+1,28,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,0,RW,14,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2,2,100,1,4,1,1,0,Match Report
+1,28,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,RW,63,0,0,0,0,0,0,0,0,26,0,1,1,0,0,0.1,1,0,18,20,90,3,19,4,1,1,Match Report
+1,28,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,0,LW,34,0,0,0,0,0,0,0,0,17,1,0,1,0,0,0,2,1,12,12,100,1,8,1,1,0,Match Report
+1,28,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,RW,66,0,0,0,0,1,1,0,0,34,1,1,0,0,0,0.8,3,0,20,28,71.4,1,25,6,4,2,Match Report
+1,28,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,0,LW,23,0,0,0,0,0,0,0,0,13,1,0,0,0,0,0,0,0,8,11,72.7,0,8,2,0,0,Match Report
+1,28,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,0,LW,16,0,0,0,0,0,0,0,0,16,2,0,0,0,0,0.1,2,0,9,14,64.3,3,8,1,0,0,Match Report
+1,28,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,RW,90,1,0,0,0,1,1,0,0,15,1,0,0,0.5,0.5,0,2,0,7,11,63.6,2,12,2,1,1,Match Report
+1,28,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,"RW,AM",90,0,0,0,0,1,0,0,0,38,3,0,1,0,0,0,0,0,21,28,75,2,26,3,2,0,Match Report
+1,28,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,AM,86,0,0,0,0,1,1,0,0,24,1,1,0,0.4,0.4,0.1,2,0,12,14,85.7,3,12,1,1,0,Match Report
+1,28,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,0,AM,45,0,0,0,0,0,0,0,0,13,1,0,1,0,0,0,0,0,6,8,75,1,6,1,0,0,Match Report
+1,29,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,1,DM,45,0,0,0,0,2,2,1,0,43,5,0,2,0.1,0.1,0,1,0,32,35,91.4,0,22,0,0,0,Match Report
+1,29,2024-09-06,Fri,Africa Cup of Nations qualification,Group stage,Home,D 1–1,sn Senegal,bf Burkina Faso,1,RW,68,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2024-09-09,Mon,Africa Cup of Nations qualification,Group stage,Neutral,W 1–0,sn Senegal,bi Burundi,0,,1,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,0,"DM,CM",23,0,0,0,0,2,1,0,0,32,2,1,1,0.1,0.1,0,4,0,21,25,84,2,19,0,2,0,Match Report
+1,29,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,CM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,29,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,0,RM,21,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,11,15,73.3,0,10,0,0,0,Match Report
+1,29,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,"CM,RM",90,1,0,0,0,2,1,0,0,58,0,2,0,0.2,0.2,0,2,0,46,52,88.5,4,41,1,1,0,Match Report
+1,29,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,0,LM,14,0,1,0,0,2,0,0,0,15,0,0,0,0.5,0.5,0.9,1,1,7,13,53.8,0,10,0,0,0,Match Report
+1,29,2024-10-03,Thu,Europa Lg,League phase,Away,W 2–1,eng Tottenham,hu Ferencváros,1,RM,81,1,0,0,0,3,3,0,0,55,4,0,1,0.3,0.3,0,3,0,31,37,83.8,3,33,1,2,0,Match Report
+1,29,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,0,RM,12,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,4,8,50,1,4,1,0,0,Match Report
+1,29,2024-10-15,Tue,Africa Cup of Nations qualification,Group stage,Away,W 1–0,sn Senegal,mw Malawi,1,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,0,LM,45,0,1,0,0,0,0,0,0,27,2,0,2,0,0,0.1,1,1,19,19,100,4,17,0,0,0,Match Report
+1,29,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,0,LM,18,0,0,0,0,0,0,0,0,14,0,1,0,0,0,0,1,0,12,13,92.3,2,14,2,0,0,Match Report
+1,29,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,0,CM,29,0,0,0,0,0,0,0,0,37,1,1,0,0,0,0,0,0,31,35,88.6,6,29,2,1,0,Match Report
+1,29,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,CM,45,1,0,0,0,1,1,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,29,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,LM,90,0,0,0,0,4,1,0,0,76,0,2,1,0.1,0.1,0,5,2,60,65,92.3,8,51,4,1,0,Match Report
+1,29,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,0,RM,25,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,9,13,69.2,1,14,0,3,0,Match Report
+1,29,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,LM,65,0,0,0,0,0,0,0,0,60,0,4,0,0,0,0,1,0,47,53,88.7,8,35,1,4,2,Match Report
+1,29,2024-11-14,Thu,Africa Cup of Nations qualification,Group stage,Neutral,W 1–0,sn Senegal,bf Burkina Faso,0,,3,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2024-11-19,Tue,Africa Cup of Nations qualification,Group stage,Home,W 2–0,sn Senegal,bi Burundi,1,CM,86,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2024-11-23,Sat,Premier League,Matchweek 12,Away,W 4–0,Tottenham,Manchester City,1,RM,89,0,0,0,0,0,0,1,0,39,3,1,3,0,0,0,1,0,26,31,83.9,1,23,0,0,0,Match Report
+1,29,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,LM,68,0,0,0,0,1,1,0,0,44,1,1,0,0.1,0.1,0,5,2,33,41,80.5,3,39,1,0,0,Match Report
+1,29,2024-12-01,Sun,Premier League,Matchweek 13,Home,D 1–1,Tottenham,Fulham,1,RM,84,0,0,0,0,0,0,0,0,52,3,0,1,0,0,0,1,0,37,44,84.1,2,33,1,1,1,Match Report
+1,29,2024-12-05,Thu,Premier League,Matchweek 14,Away,L 0–1,Tottenham,Bournemouth,1,RM,56,0,0,0,0,0,0,0,0,43,2,2,0,0,0,0,1,0,26,31,83.9,3,23,0,0,0,Match Report
+1,29,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,"LM,RM",90,0,0,0,0,1,0,1,0,28,3,1,0,0.5,0.5,0,1,0,17,20,85,1,22,0,1,0,Match Report
+1,29,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,0,DM,30,0,0,0,0,0,0,0,0,37,3,0,1,0,0,0,0,0,28,31,90.3,2,29,1,0,0,Match Report
+1,29,2024-12-15,Sun,Premier League,Matchweek 16,Away,W 5–0,Tottenham,Southampton,1,DM,90,1,0,0,0,2,2,0,0,87,3,4,2,0.3,0.3,0.1,5,1,73,76,96.1,5,63,2,2,2,Match Report
+1,29,2024-12-19,Thu,EFL Cup,Quarter-finals,Home,W 4–3,Tottenham,Manchester Utd,1,DM,90,0,0,0,0,0,0,1,0,,,3,,,,,,,,,,,,,,,Match Report
+1,29,2024-12-22,Sun,Premier League,Matchweek 17,Home,L 3–6,Tottenham,Liverpool,1,DM,57,0,0,0,0,2,1,0,0,40,2,0,1,0.1,0.1,0,0,0,27,31,87.1,3,31,1,1,0,Match Report
+1,29,2025-01-04,Sat,Premier League,Matchweek 20,Home,L 1–2,Tottenham,Newcastle Utd,1,DM,61,0,0,0,0,2,2,0,0,37,1,0,0,0.1,0.1,0,2,0,27,33,81.8,4,23,0,1,0,Match Report
+1,29,2025-01-12,Sun,FA Cup,Third round proper,Away,W 3–0,Tottenham,Tamworth,1,CM,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2025-01-15,Wed,Premier League,Matchweek 21,Away,L 1–2,Tottenham,Arsenal,1,RM,45,0,0,0,0,0,0,1,0,13,0,0,0,0,0,0,0,0,7,9,77.8,0,8,2,1,0,Match Report
+1,29,2025-01-19,Sun,Premier League,Matchweek 22,Away,L 2–3,Tottenham,Everton,1,"CM,DM",72,0,0,0,0,0,0,0,0,51,1,1,0,0,0,0,0,0,42,48,87.5,4,26,2,0,0,Match Report
+1,29,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,LM,53,0,0,0,0,1,1,0,0,34,0,0,2,0,0,0,2,1,22,26,84.6,1,19,0,0,0,Match Report
+1,29,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,0,LM,23,1,0,0,0,1,1,0,0,17,0,1,0,0.3,0.3,0,0,0,11,13,84.6,3,13,0,1,1,Match Report
+1,29,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,CM,56,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,29,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,0,,19,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,29,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,0,"CM,RM",24,0,0,0,0,2,0,1,0,13,2,1,1,0.6,0.6,0,0,0,9,9,100,2,9,0,0,0,Match Report
+1,29,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,0,LM,19,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,12,13,92.3,2,11,0,0,0,Match Report
+1,29,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,"LM,RM",90,1,0,0,0,2,1,0,0,68,3,2,1,0.1,0.1,0.1,3,0,50,56,89.3,2,42,4,4,1,Match Report
+1,29,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,"RM,LM",90,0,0,0,0,0,0,0,0,39,1,0,1,0,0,0,0,0,29,31,93.5,4,27,1,2,1,Match Report
+1,29,2025-03-22,Sat,WCQ,First round,Neutral,D 0–0,sn Senegal,sd Sudan,0,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2025-03-25,Tue,WCQ,First round,Home,W 2–0,sn Senegal,tg Togo,1,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,29,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,0,RM,27,0,0,0,0,1,0,1,0,18,1,0,0,0,0,0,1,0,13,17,76.5,1,14,0,0,0,Match Report
+1,29,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,0,"CM,RM",34,0,0,0,0,0,0,0,0,15,1,0,0,0,0,0,1,0,13,14,92.9,1,11,1,0,0,Match Report
+1,29,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,0,LM,12,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,4,5,80,1,4,0,0,0,Match Report
+1,29,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,1,RM,54,0,0,0,0,1,0,0,0,18,1,0,0,0,0,0,1,0,12,15,80,1,12,1,0,0,Match Report
+1,29,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,0,"CM,AM",12,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,1,1,100,0,2,0,0,0,Match Report
+1,29,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,"LM,CM",80,0,0,0,0,2,0,0,0,51,0,2,0,0.1,0.1,0,2,0,39,44,88.6,4,39,0,0,0,Match Report
+1,29,2025-04-27,Sun,Premier League,Matchweek 34,Away,L 1–5,Tottenham,Liverpool,0,DM,45,0,0,0,0,1,1,0,0,24,0,0,2,0,0,0,0,0,16,18,88.9,0,11,0,0,0,Match Report
+1,29,2025-05-04,Sun,Premier League,Matchweek 35,Away,D 1–1,Tottenham,West Ham,1,LM,90,0,0,0,0,1,0,0,0,55,2,2,0,0,0,0.1,2,0,32,42,76.2,6,21,3,3,0,Match Report
+1,29,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,0,AM,23,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,1,1,2,4,50,0,4,0,0,0,Match Report
+1,29,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,1,"LM,DM",90,0,0,0,0,2,0,0,0,27,3,1,1,0.4,0.4,0,2,0,14,18,77.8,1,11,0,0,0,Match Report
+1,29,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,1,DM,52,0,0,0,0,0,0,0,0,18,1,2,1,0,0,0,0,0,10,13,76.9,1,9,0,0,0,Match Report
+1,29,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,"AM,RM",89,0,1,0,0,1,0,0,0,26,3,1,1,0.1,0.1,0,1,1,5,11,45.5,1,8,1,1,0,Match Report
+1,29,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,LM,45,0,0,0,0,0,0,0,0,19,1,1,1,0,0,0,1,1,9,12,75,1,7,1,2,0,Match Report
+1,30,2024-07-01,Mon,Copa América,Group stage,Neutral,W 1–0,uy Uruguay,us United States,0,AM,12,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0.1,1,0,3,3,100,0,3,0,1,1,Match Report
+1,30,2024-07-06,Sat,Copa América,Quarter-finals,Neutral,D 0 (4)–0 (2),uy Uruguay,br Brazil,0,AM,24,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,2,4,50,1,3,0,0,0,Match Report
+1,30,2024-07-10,Wed,Copa América,Semi-finals,Neutral,L 0–1,uy Uruguay,co Colombia,1,CM,33,0,0,0,0,0,0,0,0,20,3,1,0,0,0,0,0,0,11,15,73.3,3,10,1,1,1,Match Report
+1,30,2024-07-13,Sat,Copa América,Third-place match,Neutral,D 2 (4)–2 (3),uy Uruguay,ca Canada,1,"CM,LM",90,1,0,0,0,1,1,1,0,53,2,3,2,0.1,0.1,0,0,0,23,32,71.9,4,25,1,7,1,Match Report
+1,30,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,CM,77,0,0,0,0,3,1,1,0,60,3,2,0,0.3,0.3,0,3,0,46,47,97.9,4,27,2,1,0,Match Report
+1,30,2024-09-01,Sun,Premier League,Matchweek 3,Away,L 1–2,Tottenham,Newcastle Utd,0,CM,9,0,0,0,0,0,0,1,0,17,0,0,0,0,0,0,0,0,14,17,82.4,0,8,0,0,0,Match Report
+1,30,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,CM,67,0,0,0,0,0,0,1,0,57,0,2,1,0,0,0,1,0,49,51,96.1,8,46,1,0,0,Match Report
+1,30,2024-09-18,Wed,EFL Cup,Third round,Away,W 2–1,Tottenham,Coventry City,1,CM,90,0,1,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,30,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,CM,62,0,0,0,0,1,0,0,0,37,2,3,1,0.1,0.1,0,2,0,25,31,80.6,4,19,1,2,1,Match Report
+1,30,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,0,CM,20,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0,0,4,4,100,0,3,0,0,0,Match Report
+1,30,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,CM,90,0,0,0,0,0,0,0,0,87,1,2,1,0,0,0.1,3,0,79,82,96.3,7,60,0,0,0,Match Report
+1,30,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,CM,78,0,0,0,0,0,0,0,0,55,2,2,1,0,0,0,1,0,39,46,84.8,3,38,0,1,0,Match Report
+1,30,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,0,CM,10,0,0,0,0,0,0,0,0,13,1,0,0,0,0,0,0,0,12,12,100,2,10,0,0,0,Match Report
+1,30,2024-10-24,Thu,Europa Lg,League phase,Home,W 1–0,eng Tottenham,nl AZ Alkmaar,1,CM,90,0,0,0,0,1,0,0,0,104,0,0,1,0,0,0,3,1,92,100,92,11,75,2,4,4,Match Report
+1,30,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,0,CM,4,0,0,0,0,1,0,0,0,17,0,0,0,0,0,0,1,0,15,16,93.8,1,14,0,0,0,Match Report
+1,30,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,CM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,30,2024-11-03,Sun,Premier League,Matchweek 10,Home,W 4–1,Tottenham,Aston Villa,1,CM,55,0,0,0,0,3,0,0,0,48,3,2,1,0.1,0.1,0,3,0,31,35,88.6,4,19,0,0,0,Match Report
+1,30,2024-11-07,Thu,Europa Lg,League phase,Away,L 2–3,eng Tottenham,tr Galatasaray,0,CM,45,0,0,0,0,0,0,1,0,41,3,0,4,0,0,0,0,0,25,31,80.6,0,19,1,4,2,Match Report
+1,30,2024-11-10,Sun,Premier League,Matchweek 11,Home,L 1–2,Tottenham,Ipswich Town,1,CM,83,1,0,0,0,3,1,1,0,69,7,3,0,0.2,0.2,0,1,0,46,54,85.2,7,43,1,2,1,Match Report
+1,30,2024-11-15,Fri,WCQ,WCQ — CONMEBOL (M),Home,W 3–2,uy Uruguay,co Colombia,1,DM,90,0,0,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,30,2024-11-19,Tue,WCQ,WCQ — CONMEBOL (M),Away,D 1–1,uy Uruguay,br Brazil,1,CM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+1,30,2024-11-28,Thu,Europa Lg,League phase,Home,D 2–2,eng Tottenham,it Roma,1,"CM,RM",77,0,0,0,0,0,0,1,0,44,3,3,0,0,0,0,0,0,35,37,94.6,4,33,0,2,1,Match Report
+1,30,2024-12-12,Thu,Europa Lg,League phase,Away,D 1–1,eng Tottenham,sct Rangers,1,DM,60,0,0,0,0,1,0,0,0,51,2,0,2,0.1,0.1,0,4,0,38,41,92.7,6,32,0,0,0,Match Report
+1,30,2024-12-26,Thu,Premier League,Matchweek 18,Away,L 0–1,Tottenham,Nott'ham Forest,1,DM,63,0,0,0,0,0,0,0,0,53,1,0,0,0,0,0.1,1,0,41,48,85.4,4,27,1,0,0,Match Report
+1,30,2024-12-29,Sun,Premier League,Matchweek 19,Home,D 2–2,Tottenham,Wolves,1,DM,90,1,0,0,0,2,1,1,0,60,2,1,3,0.1,0.1,0,1,0,35,46,76.1,7,28,1,2,1,Match Report
+1,30,2025-01-08,Wed,EFL Cup,Semi-finals,Home,W 1–0,Tottenham,Liverpool,1,CM,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,30,2025-01-23,Thu,Europa Lg,League phase,Away,W 3–2,eng Tottenham,de Hoffenheim,1,CM,90,0,0,0,0,0,0,0,0,75,3,4,1,0,0,0,3,2,44,54,81.5,4,41,0,0,0,Match Report
+1,30,2025-01-26,Sun,Premier League,Matchweek 23,Home,L 1–2,Tottenham,Leicester City,1,CM,90,0,0,0,0,2,0,0,0,74,2,4,3,0.1,0.1,0,2,0,48,54,88.9,3,44,0,0,0,Match Report
+1,30,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,CM,45,0,0,0,0,0,0,0,0,65,2,2,0,0,0,0,0,0,58,61,95.1,6,48,6,1,1,Match Report
+1,30,2025-02-02,Sun,Premier League,Matchweek 24,Away,W 2–0,Tottenham,Brentford,1,"CM,DM",90,0,0,0,0,0,0,0,0,67,2,2,1,0,0,0.2,4,1,48,53,90.6,4,37,6,2,2,Match Report
+1,30,2025-02-06,Thu,EFL Cup,Semi-finals,Away,L 0–4,Tottenham,Liverpool,1,CM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,30,2025-02-09,Sun,FA Cup,Fourth round proper,Away,L 1–2,Tottenham,Aston Villa,1,DM,71,0,0,0,0,0,0,1,0,,,2,,,,,,,,,,,,,,,Match Report
+1,30,2025-02-16,Sun,Premier League,Matchweek 25,Home,W 1–0,Tottenham,Manchester Utd,1,CM,77,0,0,0,0,1,0,0,0,74,0,0,2,0,0,0,3,0,61,67,91,7,48,2,1,0,Match Report
+1,30,2025-02-22,Sat,Premier League,Matchweek 26,Away,W 4–1,Tottenham,Ipswich Town,1,CM,90,0,0,0,0,1,1,0,0,70,1,1,2,0.2,0.2,0,3,1,48,59,81.4,3,43,2,0,0,Match Report
+1,30,2025-02-26,Wed,Premier League,Matchweek 27,Home,L 0–1,Tottenham,Manchester City,1,CM,66,0,0,0,0,2,1,1,0,53,4,2,0,0.1,0.1,0,1,0,38,44,86.4,1,37,0,3,2,Match Report
+1,30,2025-03-06,Thu,Europa Lg,Round of 16,Away,L 0–1,eng Tottenham,nl AZ Alkmaar,1,CM,90,0,0,0,0,0,0,1,0,99,2,2,6,0,0,0,1,0,72,84,85.7,5,61,2,3,2,Match Report
+1,30,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,1,"RM,CM",60,0,0,0,0,0,0,1,0,47,0,1,3,0,0,0,3,0,31,38,81.6,3,26,2,0,0,Match Report
+1,30,2025-03-16,Sun,Premier League,Matchweek 29,Away,L 0–2,Tottenham,Fulham,1,"RM,DM",85,0,0,0,0,3,0,0,0,64,0,3,1,0.2,0.2,0,5,0,46,51,90.2,8,35,0,1,0,Match Report
+1,30,2025-03-21,Fri,WCQ,WCQ — CONMEBOL (M),Home,L 0–1,uy Uruguay,ar Argentina,1,CM,90,0,0,0,0,1,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+1,30,2025-03-25,Tue,WCQ,WCQ — CONMEBOL (M),Away,D 0–0,uy Uruguay,bo Bolivia,1,CM,90,0,0,0,0,3,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+1,30,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,CM,90,0,0,0,0,0,0,0,0,74,2,2,2,0,0,0,0,0,52,58,89.7,2,47,2,1,0,Match Report
+1,30,2025-04-06,Sun,Premier League,Matchweek 31,Home,W 3–1,Tottenham,Southampton,1,CM,56,0,0,0,0,0,0,0,0,36,2,1,1,0,0,0,1,0,25,28,89.3,2,22,0,1,1,Match Report
+1,30,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,CM,90,0,0,0,0,2,1,0,0,67,4,4,1,0.1,0.1,0.3,1,0,51,54,94.4,3,36,0,2,1,Match Report
+1,30,2025-04-13,Sun,Premier League,Matchweek 32,Away,L 2–4,Tottenham,Wolves,0,CM,36,0,0,0,0,0,0,0,0,37,0,1,1,0,0,0,2,0,29,34,85.3,5,28,1,0,0,Match Report
+1,30,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,"CM,DM",90,0,0,0,0,1,0,1,0,48,1,2,2,0.1,0.1,0,2,0,31,34,91.2,2,27,2,1,0,Match Report
+1,30,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,CM,90,0,0,0,0,0,0,0,0,83,3,2,0,0,0,0,4,1,58,69,84.1,10,33,4,1,0,Match Report
+1,30,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,CM,90,0,0,0,0,1,1,0,0,58,5,1,0,0.1,0.1,0,1,0,37,48,77.1,2,38,2,2,1,Match Report
+1,30,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,DM,90,0,0,0,0,1,0,0,0,48,4,5,3,0,0,0.1,1,0,24,29,82.8,0,17,0,1,0,Match Report
+1,30,2025-05-11,Sun,Premier League,Matchweek 36,Home,L 0–2,Tottenham,Crystal Palace,0,CM,45,0,0,0,0,0,0,1,0,17,0,0,1,0,0,0,0,0,10,14,71.4,0,9,0,0,0,Match Report
+1,30,2025-05-16,Fri,Premier League,Matchweek 37,Away,L 0–2,Tottenham,Aston Villa,0,DM,17,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0,0,8,8,100,0,7,0,0,0,Match Report
+1,30,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,"DM,CM",90,0,0,0,0,0,0,0,0,27,0,2,0,0,0,0,1,1,16,18,88.9,1,14,0,0,0,Match Report
+1,30,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,"CM,DM",65,0,0,0,0,0,0,1,0,24,1,4,0,0,0,0,0,0,12,14,85.7,1,9,2,1,1,Match Report
+1,30,2025-06-10,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 2–0,uy Uruguay,ve Venezuela,1,DM,79,0,1,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,37,2024-07-02,Tue,UEFA Euro,Round of 16,Neutral,W 3–0,nl Netherlands,ro Romania,0,LB,22,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,8,12,66.7,0,6,0,0,0,Match Report
+1,37,2024-07-06,Sat,UEFA Euro,Quarter-finals,Neutral,W 2–1,nl Netherlands,tr Türkiye,0,LB,18,0,0,0,0,0,0,0,0,8,1,0,2,0,0,0,0,0,2,2,100,0,1,0,0,0,Match Report
+1,37,2024-08-19,Mon,Premier League,Matchweek 1,Away,D 1–1,Tottenham,Leicester City,1,CB,90,0,0,0,0,0,0,0,0,104,0,1,1,0,0,0,2,0,90,96,93.8,5,68,1,0,0,Match Report
+1,37,2024-08-24,Sat,Premier League,Matchweek 2,Home,W 4–0,Tottenham,Everton,1,CB,90,0,1,0,0,0,0,0,0,73,0,2,1,0,0,0.3,1,1,65,70,92.9,7,53,0,0,0,Match Report
+1,37,2024-09-15,Sun,Premier League,Matchweek 4,Home,L 0–1,Tottenham,Arsenal,1,CB,90,0,0,0,0,1,1,1,0,82,1,1,0,0,0,0,0,0,61,69,88.4,6,56,1,1,0,Match Report
+1,37,2024-09-21,Sat,Premier League,Matchweek 5,Home,W 3–1,Tottenham,Brentford,1,CB,90,0,0,0,0,0,0,1,0,53,2,1,1,0,0,0,0,0,38,42,90.5,0,30,1,0,0,Match Report
+1,37,2024-09-26,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,az Qarabağ,1,CB,90,0,0,0,0,0,0,0,0,63,0,1,1,0,0,0,0,0,54,57,94.7,6,38,0,0,0,Match Report
+1,37,2024-09-29,Sun,Premier League,Matchweek 6,Away,W 3–0,Tottenham,Manchester Utd,1,CB,80,0,1,0,0,2,0,0,0,96,0,0,1,0.1,0.1,0.9,3,1,88,91,96.7,9,82,1,1,0,Match Report
+1,37,2024-10-06,Sun,Premier League,Matchweek 7,Away,L 2–3,Tottenham,Brighton,1,CB,90,0,0,0,0,0,0,0,0,102,1,1,0,0,0,0,1,0,93,97,95.9,6,72,0,3,3,Match Report
+1,37,2024-10-11,Fri,UEFA Nations League,League A,Away,D 1–1,nl Netherlands,hu Hungary,1,LB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,37,2024-10-14,Mon,UEFA Nations League,League A,Away,L 0–1,nl Netherlands,de Germany,1,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,37,2024-10-19,Sat,Premier League,Matchweek 8,Home,W 4–1,Tottenham,West Ham,1,CB,90,0,0,0,0,0,0,1,0,75,2,1,2,0,0,0,1,0,61,67,91,8,55,4,0,0,Match Report
+1,37,2024-10-27,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,Crystal Palace,1,CB,90,0,0,0,0,1,0,1,0,85,1,2,0,0.1,0.1,0,1,0,64,75,85.3,1,55,0,1,1,Match Report
+1,37,2024-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Tottenham,Manchester City,1,LB,13,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+1,37,2024-12-08,Sun,Premier League,Matchweek 15,Home,L 3–4,Tottenham,Chelsea,1,CB,78,0,0,0,0,1,0,0,0,46,1,0,2,0.1,0.1,0,0,0,29,38,76.3,1,33,0,0,0,Match Report
+1,37,2025-01-30,Thu,Europa Lg,League phase,Home,W 3–0,eng Tottenham,se Elfsborg,1,CB,45,0,0,0,0,0,0,0,0,73,1,0,1,0,0,0,1,0,69,70,98.6,10,54,0,0,0,Match Report
+1,37,2025-03-09,Sun,Premier League,Matchweek 28,Home,D 2–2,Tottenham,Bournemouth,0,CB,30,0,0,0,0,0,0,0,0,26,0,0,1,0,0,0,0,0,18,23,78.3,1,21,0,1,0,Match Report
+1,37,2025-03-13,Thu,Europa Lg,Round of 16,Home,W 3–1,eng Tottenham,nl AZ Alkmaar,1,CB,60,0,0,0,0,1,0,0,0,70,2,0,2,0,0,0,1,0,56,65,86.2,5,54,0,1,0,Match Report
+1,37,2025-04-03,Thu,Premier League,Matchweek 30,Away,L 0–1,Tottenham,Chelsea,1,CB,87,0,0,0,0,1,1,0,0,66,2,0,0,0.2,0.2,0,0,0,52,57,91.2,3,39,0,1,0,Match Report
+1,37,2025-04-10,Thu,Europa Lg,Quarter-finals,Home,D 1–1,eng Tottenham,de Eint Frankfurt,1,CB,90,0,0,0,0,1,1,0,0,94,1,2,1,0.3,0.3,0,0,0,80,84,95.2,14,50,2,0,0,Match Report
+1,37,2025-04-17,Thu,Europa Lg,Quarter-finals,Away,W 1–0,eng Tottenham,de Eint Frankfurt,1,CB,90,0,0,0,0,0,0,0,0,61,4,0,0,0,0,0,1,0,37,44,84.1,2,37,0,0,0,Match Report
+1,37,2025-04-21,Mon,Premier League,Matchweek 33,Home,L 1–2,Tottenham,Nott'ham Forest,1,CB,45,0,0,0,0,0,0,0,0,54,0,1,0,0,0,0,2,0,47,51,92.2,4,35,0,0,0,Match Report
+1,37,2025-05-01,Thu,Europa Lg,Semi-finals,Home,W 3–1,eng Tottenham,no Bodø/Glimt,1,CB,90,0,0,0,0,1,0,0,0,58,1,0,0,0.1,0.1,0.1,5,0,46,49,93.9,3,45,2,1,0,Match Report
+1,37,2025-05-08,Thu,Europa Lg,Semi-finals,Away,W 2–0,eng Tottenham,no Bodø/Glimt,1,CB,90,0,0,0,0,1,0,0,0,36,2,0,2,0.1,0.1,0,0,0,24,27,88.9,4,11,1,0,0,Match Report
+1,37,2025-05-21,Wed,Europa Lg,Final,Neutral,W 1–0,eng Tottenham,eng Manchester Utd,1,CB,90,0,0,0,0,0,0,1,0,17,0,0,2,0,0,0,1,0,9,9,100,0,8,0,0,0,Match Report
+1,37,2025-05-25,Sun,Premier League,Matchweek 38,Home,L 1–4,Tottenham,Brighton,1,CB,65,0,0,0,0,0,0,0,0,33,0,0,3,0,0,0,0,0,23,26,88.5,0,21,0,0,0,Match Report
+1,37,2025-06-07,Sat,WCQ,First round,Away,W 2–0,nl Netherlands,fi Finland,0,,28,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+1,37,2025-06-10,Tue,WCQ,First round,Home,W 8–0,nl Netherlands,mt Malta,1,LB,90,1,1,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
