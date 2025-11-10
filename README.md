@@ -1,10 +1,10 @@
-# ⚽ Tottenham Hotspur Injury Predictor
+# Tottenham Hotspur Injury Predictor
 
 ### Predicting player injuries before they happen — using data, intuition, and storytelling
 
 ---
 
-## 🧠 Overview
+## Overview
 This project explores how player workload, recovery time, and past injuries contribute to the likelihood of new injuries for **Tottenham Hotspur** players. Using a **logistic regression model**, I set out to answer:  
 > *Can we predict when a player is at risk — before they actually get injured?*
 
@@ -12,7 +12,7 @@ The result was both technical and human. My final model successfully **predicted
 
 ---
 
-## 🎯 Goals
+## Goals
 - Understand which factors most strongly influence injury risk (minutes, rest days, prior injuries, fixture congestion).  
 - Engineer rolling workload metrics to reflect player fatigue more realistically.  
 - Build and test a **logistic regression model** to classify injury risk.  
@@ -21,7 +21,7 @@ The result was both technical and human. My final model successfully **predicted
 
 ---
 
-## 📊 Dataset
+## Dataset
 I built the dataset from multiple public sources, including **FBref** and **Kaggle**, combining:  
 - Player match logs (minutes played, position, opponent)  
 - Injury records (dates, types, durations)  
@@ -33,7 +33,7 @@ All preprocessing, cleaning, and feature engineering were done in **Python** usi
 
 ---
 
-## 🧩 Process
+## Process
 1. **Data Cleaning** — Standardized names, corrected date inconsistencies, and filtered non-league matches.  
 2. **Feature Engineering** — Created rolling workload metrics and rest-day variables to simulate fatigue cycles.  
 3. **EDA (Exploratory Data Analysis)** — Explored visual correlations between workload, position, and injury frequency.  
@@ -43,7 +43,7 @@ All preprocessing, cleaning, and feature engineering were done in **Python** usi
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 - The model **predicted 7 new injuries before they actually occurred**, signaling risk spikes several days prior.  
 - Players with **under 4 days of rest** had the highest predicted injury probability.  
 - **Cumulative minutes** and **recent injury history** were strong predictors of future injury.  
